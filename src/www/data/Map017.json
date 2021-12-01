@@ -1,0 +1,502 @@
+{
+"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"Cobblestones4","battleback2Name":"Room2","bgm":{"name":"Town1","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"プロフト・武器屋 ||| Harvest Town - Weapon Shop ||| 武器商店","encounterList":[],"encounterStep":30,"height":13,"note":"プロフト","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":true,"tilesetId":3,"width":21,
+"data":[1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6786,6772,6772,6772,6772,6773,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6789,1536,1536,6768,6752,6752,6752,6752,6776,7091,7090,7090,7090,7090,7090,7090,7090,7090,7090,7090,7094,6784,1536,1536,6768,6752,6752,6752,6752,6776,7097,7096,7096,7096,7096,7096,7096,7096,7096,7096,7096,7100,6784,1536,1536,6770,6780,6780,6780,6780,6790,3234,3220,3220,3220,3220,3220,3220,3220,3220,3220,3220,3236,6784,1536,1536,6784,7091,7090,7090,7090,7094,3216,3200,3200,3200,3200,3200,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,7097,7096,7096,7096,7100,3216,3200,3200,3204,3228,3208,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3618,3604,3604,3604,3620,3216,3200,3200,3224,2954,3216,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3600,3584,3584,3584,3608,3216,3200,3200,3224,2944,3216,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3600,3584,3584,3584,3608,3216,3200,3200,3224,2944,3216,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3624,3612,3612,3612,3622,3240,3228,3228,3238,2956,3240,3228,3228,3212,3228,3228,3238,6784,1536,1536,6793,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6797,3232,6795,6785,6785,6791,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,7103,3232,7103,1536,1536,1536,1536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3282,3268,3284,3194,3282,3268,3269,3281,3281,3281,3281,3285,0,0,0,0,0,0,0,0,0,3264,3248,3272,3184,3264,3248,3272,3186,3172,3172,3188,3280,0,0,0,0,0,0,0,0,0,3264,3248,3272,3184,3288,3256,3272,3192,3180,3180,3190,3280,0,0,0,0,3666,3652,3652,3652,3668,3264,3248,3272,3184,0,3264,3250,3268,3269,3281,3281,3275,0,0,0,0,3672,3640,3632,3632,3656,3264,3248,3272,3184,0,3264,3248,3248,3272,3186,3188,3280,0,0,0,0,3962,3672,3640,3632,3656,3264,3248,3272,3184,0,3264,3248,3248,3272,3192,3190,3280,0,0,0,0,3961,3965,3672,3660,3670,3288,3276,3286,3196,0,3288,3276,3276,3262,3281,3281,3287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,39,0,0,39,0,0,0,0,0,0,0,0,0,0,51,51,51,0,431,430,0,47,0,0,47,431,0,0,0,0,0,0,0,0,0,59,59,59,0,439,438,0,0,0,0,0,439,0,0,0,0,0,39,0,39,0,0,0,0,356,0,0,0,386,386,388,389,0,0,0,0,0,0,47,0,430,431,0,0,0,0,0,0,0,395,394,403,0,0,0,0,0,0,406,407,405,438,439,0,0,0,344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,402,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,0,0,0,0,400,401,0,0,0,0,0,0,0,209,209,224,0,0,0,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":16,"y":2},
+{
+    "id": 2,
+    "name": "EV002",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,8,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-001"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-002"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,8,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-003"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":111,"indent":0,"parameters":[1,103,0,2,3]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-004"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":111,"indent":0,"parameters":[1,103,0,1,0]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 047"]},
+                {"code":122,"indent":1,"parameters":[103,103,0,0,2]},
+                {"code":241,"indent":1,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[1,5,0,0,false]},
+                {"code":605,"indent":0,"parameters":[1,69,0,0]},
+                {"code":605,"indent":0,"parameters":[1,70,0,0]},
+                {"code":605,"indent":0,"parameters":[1,71,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 103,
+                "variableValid": true,
+                "variableValue": 6
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},
+                {"code":408,"indent":0,"parameters":["スクリプト再生"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad 052"]},
+                {"code":201,"indent":0,"parameters":[0,118,10,11,8,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 111,
+                "switch2Valid": true,
+                "variableId": 103,
+                "variableValid": false,
+                "variableValue": 7
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,8,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-005"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,8,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-006"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-017-007"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[1,5,0,0,false]},
+                {"code":605,"indent":0,"parameters":[1,69,0,0]},
+                {"code":605,"indent":0,"parameters":[1,70,0,0]},
+                {"code":605,"indent":0,"parameters":[1,71,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 9,
+    "y": 8
+},
+{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,16,7,24,2,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":15,"y":12},
+null,
+{
+    "id": 5,
+    "name": "EV005",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,1,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-008"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-009"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,1,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-010"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-011"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-017-012"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-017-013"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[2,56,0,0,false]},
+                {"code":605,"indent":0,"parameters":[2,57,0,0]},
+                {"code":605,"indent":0,"parameters":[2,115,0,0]},
+                {"code":605,"indent":0,"parameters":[0,1,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 111,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 103,
+                "variableValid": true,
+                "variableValue": 6
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,1,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-014"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-015"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,1,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-016"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-017"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":213,"indent":0,"parameters":[0,1,false]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-017-018"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-017-019"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[2,56,0,0,false]},
+                {"code":605,"indent":0,"parameters":[2,57,0,0]},
+                {"code":605,"indent":0,"parameters":[2,115,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 111,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,1,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-020"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-021"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,1,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-022"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-017-023"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":213,"indent":0,"parameters":[0,8,false]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-017-024"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-017-025"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[2,56,0,0,false]},
+                {"code":605,"indent":0,"parameters":[2,57,0,0]},
+                {"code":605,"indent":0,"parameters":[2,115,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 9,
+    "y": 6
+}
+]
+}

@@ -1,0 +1,438 @@
+{
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"DarkSpace","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"神威城・異空間 ||| Unknown Dimension ||| 神威城/异空间","encounterList":[],"encounterStep":30,"height":13,"note":"神威城・異空間","parallaxLoopX":false,"parallaxLoopY":true,"parallaxName":"DarkSpace1","parallaxShow":true,"parallaxSx":0,"parallaxSy":1,"scrollType":1,"specifyBattleback":true,"tilesetId":4,"width":17,
+"parallaxRx":0,
+"parallaxRy":0,
+"parallaxSx":0,
+"parallaxSy":2,
+"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,339,340,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,347,348,349,0,0,0,0,0,0,0,0,0,0,0,339,340,341,355,356,357,0,0,0,0,0,0,0,0,0,0,0,347,348,349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,355,356,357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"聖滅神","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"$BigMonster2","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":8,"y":4},
+{
+    "id": 2,
+    "name": "EV002",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 374,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["Show Picture : 1, \"AP-Black\", 0, 0, 0, 0, 100, 100, 255, 0"]},
+                {"code":355,"indent":0,"parameters":["$gameScreen.showPictureFit(1, \"AP-Black\", 1, 0, 0, 100, 100, 0, 0, 255, 0)"]},
+                {"code":655,"indent":0,"parameters":["$gameScreen.showBlackFrames(\"AP-Black\", Graphics.boxWidth/2, Graphics.boxHeight/2, 100, 100, 0, 0, 255, 0)"]},
+                {"code":222,"indent":0,"parameters":[]},
+                {"code":230,"indent":0,"parameters":[60]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["Show Picture : 2, \"A-sowd\", 0, 0, 0, -1200, 100, 100, 255, 0"]},
+                {"code":355,"indent":0,"parameters":["$gameScreen.showPictureFit(2, \"A-sowd\", 1, 0, -1200/2-Graphics.boxHeight/2, 100, 100, 816, 1200, 255, 0)"]},
+                {"code":250,"indent":0,"parameters":[{"name":"Sword4","volume":90,"pitch":100,"pan":0}]},
+                {"code":224,"indent":0,"parameters":[[255,255,255,170],30,false]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["Move Picture : 2, 0, 0, 0, 0, 0, 100, 100, 255, 0, 30, true"]},
+                {"code":355,"indent":0,"parameters":["$gameScreen.movePictureFit(2, 1, 0, 1200/2-Graphics.boxHeight/2, 100, 100, 816, 1200, 255, 0, 30)"]},
+                {"code":230,"indent":0,"parameters":[120]},
+                {"code":356,"indent":0,"parameters":["AdvLoad 208_1"]},
+                {"code":108,"indent":0,"parameters":["Give Devil Black Armor only if Black Armor is currently equipped"]},
+                {"code":111,"indent":0,"parameters":[4,1,5,5]},
+                {"code":108,"indent":1,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":1,"parameters":["If : 0, 80, 1"]},
+                {"code":408,"indent":1,"parameters":["Change Armor : 11, 0, 0, 1, false"]},
+                {"code":408,"indent":1,"parameters":["Pop"]},
+                {"code":408,"indent":1,"parameters":["End If"]},
+                {"code":111,"indent":1,"parameters":[10,11,true]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":411,"indent":1,"parameters":[]},
+                {"code":128,"indent":2,"parameters":[11,0,0,1,false]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":108,"indent":1,"parameters":["*** NEW *** Remove Black Armor from inventory:"]},
+                {"code":128,"indent":1,"parameters":[5,1,0,1,true]},
+                {"code":319,"indent":1,"parameters":[1,4,11]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["Move Picture : 1, 0, 0, 0, 0, 0, 100, 100, 0, 0, 30, false"]},
+                {"code":408,"indent":0,"parameters":["Move Picture : 2, 0, 0, 0, 0, 0, 100, 100, 0, 0, 30, true"]},
+                {"code":355,"indent":0,"parameters":["$gameScreen.movePictureFit(1, 1, 0, 0, 100, 100, 0, 0, 0, 0, 30)"]},
+                {"code":655,"indent":0,"parameters":["$gameScreen.movePictureFit(2, 1, 0, 1200/2-Graphics.boxHeight/2, 100, 100, 816, 1200, 0, 0, 30)"]},
+                {"code":655,"indent":0,"parameters":["$gameScreen.moveBlackFrames(Graphics.boxWidth/2, Graphics.boxHeight/2, 100, 100, 0, 0, 0, 0, 30)"]},
+                {"code":230,"indent":0,"parameters":[30]},
+                {"code":235,"indent":0,"parameters":[1]},
+                {"code":235,"indent":0,"parameters":[2]},
+                {"code":355,"indent":0,"parameters":["$gameScreen.eraseBlackFrames()"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad 208_2"]},
+                {"code":108,"indent":0,"parameters":["神魔剣と魔神剣が融合したので、魔皇剣を入れて、装備させています。"]},
+                {"code":408,"indent":0,"parameters":["※魔神剣を消すべきか迷ったけど、一応入れた状態にしています。"]},
+                {"code":408,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 0, 80, 1"]},
+                {"code":408,"indent":0,"parameters":["Change Weapons : 32, 0, 0, 1, false"]},
+                {"code":408,"indent":0,"parameters":["Pop"]},
+                {"code":408,"indent":0,"parameters":["End If"]},
+                {"code":408,"indent":0,"parameters":["Give Divine Demon Blade only once"]},
+                {"code":111,"indent":0,"parameters":[9,32,true]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":411,"indent":0,"parameters":[]},
+                {"code":127,"indent":1,"parameters":[32,0,0,1,false]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** NEW *** Remove Divine Blade and Demon Blade from inventory:"]},
+                {"code":127,"indent":0,"parameters":[41,1,0,1,true]},
+                {"code":127,"indent":0,"parameters":[29,1,0,1,true]},
+                {"code":319,"indent":0,"parameters":[1,1,32]},
+                {"code":129,"indent":0,"parameters":[2,1,false]},
+                {"code":314,"indent":0,"parameters":[0,0]},
+                {"code":301,"indent":0,"parameters":[0,33,false,true]},
+                {"code":601,"indent":0,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":603,"indent":0,"parameters":[]},
+                {"code":122,"indent":1,"parameters":[374,374,0,0,0]},
+                {"code":122,"indent":1,"parameters":[376,376,1,0,1]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":604,"indent":0,"parameters":[]},
+                {"code":122,"indent":0,"parameters":[374,374,1,0,1]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": false
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 374,
+                "variableValid": true,
+                "variableValue": 5
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 211"]},
+                {"code":314,"indent":0,"parameters":[0,0]},
+                {"code":301,"indent":0,"parameters":[0,35,false,true]},
+                {"code":601,"indent":0,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":603,"indent":0,"parameters":[]},
+                {"code":122,"indent":1,"parameters":[374,374,0,0,0]},
+                {"code":122,"indent":1,"parameters":[376,376,1,0,1]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":604,"indent":0,"parameters":[]},
+                {"code":122,"indent":0,"parameters":[374,374,1,0,1]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": false
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 374,
+                "variableValid": true,
+                "variableValue": 6
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 212"]},
+                {"code":122,"indent":0,"parameters":[374,374,1,0,1]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": false
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 374,
+                "variableValid": true,
+                "variableValue": 7
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":122,"indent":0,"parameters":[374,374,1,0,1]},
+                {"code":122,"indent":0,"parameters":[377,377,0,0,1]},
+                {"code":230,"indent":0,"parameters":[60]},
+                {"code":117,"indent":0,"parameters":[5]},
+                {"code":230,"indent":0,"parameters":[120]},
+                {"code":314,"indent":0,"parameters":[0,0]},
+                {"code":352,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** NEW *** Skip dialogue choice if Iris is already equipped with Black Gown:"]},
+                {"code":111,"indent":0,"parameters":[4,1,5,4]},
+                {"code":111,"indent":1,"parameters":[4,1,5,11]},
+                {"code":319,"indent":2,"parameters":[1,4,5]},
+                {"code":322,"indent":2,"parameters":[1,"iris_yoroi",0,"iris_yoroi",0,""]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":411,"indent":0,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-142-001"]},
+                {"code":102,"indent":1,"parameters":[["はい ||| \\$POSITIVE[✔] Yes ||| 是的","いいえ ||| \\$NEGATIVE[✖] No ||| 不"],1,0,2,0]},
+                {"code":402,"indent":1,"parameters":[0,"はい ||| Yes ||| 是的"]},
+                {"code":319,"indent":2,"parameters":[1,4,4]},
+                {"code":322,"indent":2,"parameters":[1,"iris_normal",0,"iris_normal",0,""]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":402,"indent":1,"parameters":[1,"いいえ ||| No ||| 不"]},
+                {"code":111,"indent":2,"parameters":[4,1,5,11]},
+                {"code":319,"indent":3,"parameters":[1,4,5]},
+                {"code":322,"indent":3,"parameters":[1,"iris_yoroi",0,"iris_yoroi",0,""]},
+                {"code":0,"indent":3,"parameters":[]},
+                {"code":412,"indent":2,"parameters":[]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":404,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":201,"indent":0,"parameters":[0,136,9,6,0,2]},
+                {"code":230,"indent":0,"parameters":[120]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": false
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 376,
+                "variableValid": true,
+                "variableValue": 8
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters":
+                    []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": false
+        }
+    ],
+    "x": 0,
+    "y": 2
+},
+{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":376,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":221,"indent":0,"parameters":[]},{"code":211,"indent":0,"parameters":[0]},{"code":129,"indent":0,"parameters":[2,0,false]},{"code":201,"indent":0,"parameters":[0,145,6,5,0,2]},{"code":222,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":0,"y":3},
+{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Door2","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":4,"indent":null},{"code":8,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":6,"indent":null},{"code":1,"indent":null},{"code":5,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":7,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":3,"priorityType":1,"stepAnime":true,"through":true,"trigger":0,"walkAnime":false}],"x":6,"y":4},
+{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Door2","direction":4,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":2,"indent":0},{"code":7,"indent":0},{"code":4,"indent":null},{"code":8,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":6,"indent":null},{"code":1,"indent":null},{"code":5,"indent":null},{"code":2,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":3,"priorityType":1,"stepAnime":true,"through":true,"trigger":0,"walkAnime":false}],"x":8,"y":5},
+{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Door2","direction":8,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":5,"indent":0},{"code":2,"indent":0},{"code":2,"indent":0},{"code":7,"indent":0},{"code":4,"indent":null},{"code":8,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":6,"indent":null},{"code":1,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":3,"priorityType":1,"stepAnime":true,"through":true,"trigger":0,"walkAnime":false}],"x":10,"y":4},
+{"id":7,"name":"EV007","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Door2","direction":6,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":6,"indent":0},{"code":1,"indent":0},{"code":5,"indent":0},{"code":2,"indent":0},{"code":2,"indent":0},{"code":7,"indent":0},{"code":4,"indent":null},{"code":8,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":3,"priorityType":1,"stepAnime":true,"through":true,"trigger":0,"walkAnime":false}],"x":9,"y":2},
+{"id":8,"name":"EV008","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Door2_1","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":3,"indent":0},{"code":3,"indent":0},{"code":6,"indent":0},{"code":1,"indent":0},{"code":5,"indent":0},{"code":2,"indent":0},{"code":2,"indent":0},{"code":7,"indent":0},{"code":4,"indent":null},{"code":8,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":3,"priorityType":1,"stepAnime":true,"through":true,"trigger":0,"walkAnime":false}],"x":7,"y":2},
+{"id":9,"name":"シオン","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"sion","direction":8,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":9},
+{"id":10,"name":"EV010","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":13,"y":8},
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+}

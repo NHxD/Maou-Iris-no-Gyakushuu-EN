@@ -1,0 +1,6 @@
+
+;; ■ Dark Castle
+;; ■ Prologue
+;; message
+
+......

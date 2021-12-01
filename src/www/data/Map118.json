@@ -1,0 +1,172 @@
+{
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"Wood2","battleback2Name":"Room1","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"プロフト・村長の家 ||| Harvest Town - Mayor's House ||| 村长家","encounterList":[],"encounterStep":30,"height":18,"note":"プロフト","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":3,"width":21,
+"data":[1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6834,6820,6820,6821,6833,6833,6833,6833,6833,6833,6833,6833,6833,6822,6820,6820,6820,6820,6836,1536,1536,6816,6800,6800,6824,7091,7090,7090,7090,7090,7090,7090,7090,7094,6816,6800,6800,6800,6800,6824,1536,1536,6816,6800,6800,6824,7097,7096,7096,7096,7096,7096,7096,7096,7096,6816,6800,6800,6800,6800,6824,1536,1536,6818,6828,6828,6838,3243,3245,1552,1552,1552,1552,1552,3243,3245,6816,6800,6800,6800,6800,6824,1536,1536,6832,7091,7090,7094,1552,1552,1552,3714,3700,3700,3700,3716,1552,6816,6800,6800,6800,6800,6824,1536,1536,6832,7097,7096,7100,1552,1552,1552,3696,3684,3708,3688,3704,1552,6816,6800,6800,6800,6800,6824,1536,1536,6832,1636,3618,3620,1552,1552,1552,3696,3704,2958,3696,3704,1552,6818,6828,6828,6828,6828,6825,1536,1536,6832,1636,3624,3622,1552,1552,1552,3696,3682,3700,3681,3704,1552,6832,7090,7090,7090,7090,6832,1536,1536,6832,1552,1552,1552,1552,1552,1552,3720,3708,3708,3708,3718,1552,6832,7096,7096,7096,7096,6832,1536,1536,6819,6845,1552,6843,6837,1552,1552,1552,1552,1552,1552,1552,1552,6832,1552,1552,1552,1552,6832,1536,1536,6832,7094,1552,7091,6832,1552,1552,1552,1552,1552,1552,1552,1552,6832,1552,1552,1552,1552,6832,1536,1536,6832,7100,1552,7097,6832,1552,1552,1552,1552,1552,1552,6843,6833,6839,1552,1552,1552,1552,6832,1536,1536,6832,1552,1552,1552,6832,1552,1552,1552,1552,1552,1552,7091,7090,7094,1552,3714,3700,3716,6832,1536,1536,6832,1552,1552,1552,6832,1552,1552,1552,1552,1552,1552,7097,7096,7100,1552,3696,3680,3704,6832,1536,1536,6832,1552,1552,1552,6832,1552,1552,1552,1552,1552,1552,1552,1552,1552,1552,3720,3708,3718,6832,1536,1536,6841,6833,6833,6833,6831,6833,6833,6833,6837,1603,6835,6833,6833,6833,6833,6833,6833,6833,6839,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,1630,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3186,3172,3188,0,0,0,0,0,0,0,0,0,0,0,0,3666,3668,0,0,0,0,3168,3152,3176,0,0,0,0,0,0,0,0,0,0,0,0,3672,3670,0,0,0,0,3192,3180,3190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,160,132,350,16,0,0,0,0,0,0,0,0,0,0,0,0,0,54,55,123,24,168,140,0,70,71,0,0,0,0,0,0,0,0,0,0,0,0,62,63,0,0,0,0,0,78,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0,0,0,0,0,0,0,0,392,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,113,115,0,0,0,104,0,341,0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,80,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,243,0,242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,251,0,0,0,0,0,0,0,0,0,0,0,0,0,104,96,104,0,0,0,0,0,226,227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":13,"y":13},
+{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":5},
+{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,16,24,13,0,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":1,"walkAnime":true}],"x":10,"y":17},
+{
+    "id": 4,
+    "name": "村長",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People1",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 6
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,7,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-118-002"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,6,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-118-003"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":213,"indent":0,"parameters":[0,8,false]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-118-004"]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 103,
+                "variableValid": true,
+                "variableValue": 7
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People1",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 6
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,7,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-118-005"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":213,"indent":1,"parameters":[0,6,false]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-118-006"]},
+                {"code":115,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":213,"indent":0,"parameters":[0,8,false]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-118-007"]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 10,
+    "y": 9
+},
+{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},{"code":408,"indent":0,"parameters":["企画書では村長の家へ移動とありますが、"]},{"code":408,"indent":0,"parameters":["村長の家のマップがないため村長が武器屋に来たという"]},{"code":408,"indent":0,"parameters":["内容に変更して実装"]},{"code":408,"indent":0,"parameters":["(台詞は変更していません。)"]},{"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},{"code":408,"indent":0,"parameters":["スクリプト再生"]},{"code":356,"indent":0,"parameters":["AdvLoad 053"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":37,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":1,"indent":null},{"code":38,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":37,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":38,"indent":null}]},{"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},{"code":408,"indent":0,"parameters":["馬車イベント"]},{"code":242,"indent":0,"parameters":[2]},{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[60]},{"code":250,"indent":0,"parameters":[{"name":"Coin","volume":90,"pitch":100,"pan":0}]},{"code":356,"indent":0,"parameters":["AdvLoad M-118-001"]},{"code":125,"indent":0,"parameters":[0,0,2000]},{"code":230,"indent":0,"parameters":[60]},{"code":250,"indent":0,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":0,"parameters":[0,16,24,13,2,2]},{"code":121,"indent":0,"parameters":[111,111,0]},{"code":222,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":111,"switch2Valid":true,"variableId":103,"variableValid":false,"variableValue":7},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":1,"y":2},
+{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":6,"pattern":1,"characterIndex":4},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":6,"pattern":1,"characterIndex":4},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":111,"switch2Valid":true,"variableId":103,"variableValid":false,"variableValue":7},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":6,"pattern":1,"characterIndex":4},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":9,"y":10}
+]
+}

@@ -1,0 +1,3457 @@
+{
+  "autoplayBgm": true,
+  "autoplayBgs": false,
+  "battleback1Name": "Grassland",
+  "battleback2Name": "Grassland",
+  "bgm": {
+    "name": "Town1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "disableDashing": false,
+  "displayName": "辺境の村・フロン ||| Border Village ||| 边村",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 25,
+  "note": "フロン村",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": true,
+  "tilesetId": 2,
+  "width": 25,
+  "data": [
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2820, 2844, 2844, 2844, 2844, 2854, 1644, 1641, 1641, 1642, 7704, 7692, 7672, 7664, 7664, 7664, 7664, 7664, 2816, 2816, 2816, 2816, 2816, 2816, 2820, 2854, 1644, 1641, 1641, 1641, 1641, 1642, 1649, 1649, 1650, 8051, 8054, 7704, 7692, 7672, 7664, 7664, 7664, 2816, 2816, 2820, 2844, 2844, 2844, 2854, 1644, 1642, 1649, 1649, 1649, 1649, 1650, 1657, 1657, 1658, 8057, 8056, 8051, 8050, 7704, 7692, 7672, 7664, 2820, 2844, 2854, 1644, 1641, 1641, 1641, 1642, 1650, 1657, 1657, 1657, 1649, 1650, 2850, 2836, 2836, 2836, 2852, 8057, 8056, 8051, 8054, 7704, 7692, 2854, 1644, 1641, 1642, 1649, 1649, 1649, 1650, 1658, 2850, 2836, 2836, 2836, 2836, 2817, 2816, 2816, 2816, 2818, 2836, 2852, 8057, 8060, 8051, 8054, 1644, 1642, 1649, 1650, 1657, 1657, 1657, 1658, 2850, 2817, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2818, 2836, 2852, 8057, 8060, 1634, 1650, 1657, 1658, 2859, 2849, 2849, 2838, 2817, 2816, 2816, 2816, 2820, 2844, 2844, 2844, 2844, 2844, 2844, 2844, 2824, 2816, 2818, 2836, 2836, 1634, 1658, 2850, 2852, 5611, 5610, 5614, 2832, 2816, 2816, 2816, 2816, 2840, 5171, 5170, 5170, 5170, 5170, 5170, 5174, 2832, 2816, 2816, 2816, 2816, 1642, 2850, 2821, 2846, 2849, 2849, 2849, 2845, 2824, 2816, 2816, 2816, 2840, 5169, 5168, 5168, 5168, 5168, 5168, 5172, 2832, 2816, 2816, 2816, 2816, 1650, 2832, 2840, 5603, 5602, 5602, 5602, 5606, 2832, 2816, 2816, 2816, 2840, 5177, 5176, 5176, 5176, 5176, 5176, 5180, 2832, 2816, 2816, 2816, 2816, 1658, 2832, 2840, 5609, 5608, 5608, 5608, 5612, 2832, 2816, 2816, 2816, 2840, 5555, 5554, 5554, 5554, 5554, 5554, 5558, 2832, 2816, 2816, 2816, 2816, 2836, 2821, 2846, 2849, 2849, 2849, 2849, 2849, 2845, 2844, 2844, 2844, 2854, 5561, 5560, 5560, 5560, 5560, 5560, 5564, 2856, 2844, 2824, 2816, 2816, 2816, 2840, 2898, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2884, 2900, 2832, 2816, 2816, 2816, 2840, 2904, 2892, 2892, 2872, 2864, 2868, 2892, 2892, 2892, 2872, 2868, 2892, 2892, 2892, 2892, 2892, 2892, 2892, 2892, 2902, 2832, 2816, 2816, 2816, 2818, 2837, 2849, 2861, 2904, 2876, 2902, 2859, 2849, 2853, 2880, 2888, 4098, 4084, 4084, 4084, 4084, 4100, 2850, 2836, 2836, 2817, 2816, 2816, 2816, 2816, 2840, 5219, 5218, 5222, 2896, 5219, 5218, 5222, 2848, 2880, 2888, 4080, 4064, 4064, 4064, 4064, 4088, 2832, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2840, 5225, 5224, 5228, 2896, 5225, 5224, 5228, 2848, 2880, 2888, 4080, 4064, 4064, 4064, 4064, 4088, 2832, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2840, 5611, 5610, 5614, 2908, 5611, 5610, 5614, 2848, 2880, 2888, 4104, 4092, 4092, 4092, 4092, 4102, 2832, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2818, 2836, 2836, 2836, 2836, 2836, 2836, 2836, 2842, 2880, 2888, 2850, 2836, 2836, 2836, 2836, 2836, 2817, 2816, 2816, 2816, 2820, 2844, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2840, 2880, 2888, 2832, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2820, 2854, 7698, 2816, 2820, 2844, 2844, 2844, 2844, 2824, 2816, 2816, 2816, 2840, 2880, 2888, 2832, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2840, 7698, 7665, 2816, 2840, 1609, 1609, 1609, 1609, 2832, 2816, 2816, 2816, 2840, 2880, 2888, 2832, 2816, 2816, 2816, 2816, 2816, 2820, 2844, 2844, 2854, 7680, 7664, 2816, 2840, 1609, 1609, 1609, 1609, 2832, 2816, 2816, 2816, 2840, 2880, 2888, 2832, 2816, 2816, 2820, 2844, 2844, 2854, 7698, 7684, 7684, 7665, 7664, 2816, 2840, 1609, 1609, 1609, 1609, 2832, 2816, 2816, 2816, 2840, 2880, 2888, 2832, 2816, 2820, 2854, 7698, 7684, 7684, 7665, 7664, 7664, 7664, 7664, 2816, 2818, 2836, 2836, 2836, 2836, 2817, 2816, 2816, 2816, 2840, 2880, 2888, 2832, 2816, 2840, 7698, 7665, 7664, 7664, 7664, 7664, 7664, 7664, 7664, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3051, 3041, 3030, 3028, 3044, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3048, 3036, 3038, 3030, 3044, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3048, 3038, 3053, 3146, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 0, 0, 3042, 3044, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 0, 3042, 3013, 3038, 3053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 0, 3024, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 0, 3048, 3033, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 3137, 3141, 3052, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4146, 4132, 4132, 4132, 4132, 4148, 0, 3050, 0, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4128, 4112, 4112, 4112, 4112, 4136, 0, 3025, 3044, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4128, 4112, 4112, 4112, 4112, 4136, 3042, 3009, 3032, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4152, 4140, 4140, 4140, 4140, 4150, 3024, 3008, 3032, 3136, 0, 0, 0, 3136, 3051, 3053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3032, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 3042, 3028, 3044, 0, 0, 0, 0, 0, 0, 0, 3042, 3028, 3009, 3008, 3032, 3136, 0, 0, 0, 3136, 0, 0, 0, 0, 0, 3048, 3016, 3032, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3032, 3136, 0, 0, 3044, 3136, 0, 0, 0, 0, 3146, 0, 3026, 3046, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3012, 3036, 3046, 3148, 0, 0, 3032, 3136, 0, 0, 0, 0, 3136, 0, 3052, 0, 0, 0, 0, 0, 0, 0, 0, 3048, 3036, 3046, 0, 0, 0, 0, 0, 3032, 3136, 0, 0, 0, 0, 3123, 3137, 3137, 3137, 3149, 0, 0, 3147, 3137, 3137, 3149, 0, 0, 0, 0, 0, 0, 0, 0, 3032, 3121, 3124, 3124, 3124, 3124, 3130, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 120, 121, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 408, 409, 410, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 90, 90, 0, 0, 0, 0, 0, 0, 0, 0, 416, 417, 418, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 408, 424, 442, 426, 410, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 0, 416, 0, 0, 0, 418, 0, 0, 0, 0, 0, 0, 0, 423, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 90, 424, 425, 430, 425, 426, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 112, 113, 0, 0, 112, 113, 112, 113, 0, 90, 112, 113, 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 112, 113, 112, 113, 112, 113, 121, 0, 0, 120, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 112, 113, 121, 120, 121, 120, 121, 0, 0, 0, 192, 0, 0, 0, 116, 116, 116, 0, 0, 0, 0, 0, 0, 0, 0, 120, 121, 0, 0, 0, 0, 0, 0, 0, 0, 200, 0, 0, 0, 124, 124, 124, 0, 90, 93, 93, 0, 0, 0, 0, 0, 0, 0, 0, 413, 414, 415, 0, 0, 106, 0, 92, 0, 0, 0, 0, 0, 90, 0, 101, 101, 93, 0, 0, 0, 0, 0, 194, 0, 421, 422, 423, 0, 106, 0, 179, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 93, 0, 112, 113, 0, 0, 202, 413, 429, 443, 431, 415, 0, 0, 0, 0, 0, 413, 414, 415, 0, 0, 0, 77, 93, 101, 0, 120, 121, 0, 0, 77, 421, 0, 0, 0, 423, 0, 0, 0, 0, 0, 421, 422, 445, 0, 0, 0, 0, 101, 90, 0, 112, 113, 0, 0, 77, 429, 430, 443, 430, 431, 0, 0, 0, 91, 0, 421, 422, 423, 0, 0, 0, 0, 0, 0, 0, 93, 121, 0, 91, 0, 0, 48, 0, 48, 0, 80, 0, 0, 0, 0, 429, 430, 431, 0, 0, 0, 0, 0, 0, 0, 101, 0, 0, 0, 89, 93, 93, 68, 56, 0, 80, 0, 0, 0, 91, 0, 6, 0, 36, 0, 36, 0, 0, 0, 0, 112, 113, 0, 0, 0, 101, 101, 76, 0, 0, 0, 0, 0, 0, 73, 0, 68, 0, 45, 0, 45, 0, 0, 0, 0, 120, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 0, 0, 112, 113, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 93, 112, 0, 0, 0, 0, 0, 0, 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 127, 81, 81, 0, 0, 0, 0, 101, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 86, 0, 0, 0, 0, 106, 0, 93, 89, 0, 112, 113, 113, 0, 0, 0, 68, 0, 0, 0, 68, 0, 0, 0, 0, 118, 118, 119, 117, 80, 80, 91, 101, 0, 0, 93, 112, 121, 0, 0, 0, 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 120, 0, 0, 0, 0, 0, 89, 0, 0, 0, 89, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 89, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 0, 0, 0, 0, 0, 0, 0, 0, 91, 0, 110, 110, 0, 0, 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 91, 0, 91, 0, 110, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},
+            {"code":201,"indent":0,"parameters":[0,5,68,15,2,0]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 24
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},
+            {"code":201,"indent":0,"parameters":[0,5,68,15,2,0]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 24
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":213,"indent":0,"parameters":[-1,8,true]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 018"]},
+            {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":37,"indent":null},{"code":4,"indent":null},{"code":38,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+            {"code":505,"indent":0,"parameters":[{"code":37,"indent":null}]},
+            {"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},
+            {"code":505,"indent":0,"parameters":[{"code":38,"indent":null}]},
+            {"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},
+            {"code":201,"indent":0,"parameters":[0,8,3,19,8,0]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},
+            {"code":201,"indent":0,"parameters":[0,8,3,17,8,0]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 11
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},
+            {"code":201,"indent":0,"parameters":[0,9,10,15,8,0]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 10
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},
+            {"code":108,"indent":0,"parameters":["Set House Id to #1:"]},
+            {"code":122,"indent":0,"parameters":[61,61,0,0,1]},
+            {"code":201,"indent":0,"parameters":[0,10,9,12,0,0]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 17
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},
+            {"code":108,"indent":0,"parameters":["Set House Id to #2:"]},
+            {"code":122,"indent":0,"parameters":[61,61,0,0,2]},
+            {"code":201,"indent":0,"parameters":[0,10,30,12,0,0]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 17
+    },
+    {
+      "id": 7,
+      "name": "売春イベント",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 145,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People2",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["Only accepts Black Gown"]},
+            {"code":111,"indent":0,"parameters":[4,1,5,4]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":411,"indent":0,"parameters":[]},
+            {"code":108,"indent":1,"parameters":["ドレス以外の時の処理"]},
+            {"code":108,"indent":1,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":1,"parameters":["If : 4, 1, 5, 10"]},
+            {"code":356,"indent":1,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+            {"code":111,"indent":1,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":2,"parameters":["LewdEvent"]},
+            {"code":213,"indent":2,"parameters":[0,4,false]},
+            {"code":356,"indent":2,"parameters":["AdvLoad M-007-002"]},
+            {"code":115,"indent":2,"parameters":[]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":108,"indent":1,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":1,"parameters":["If : 4, 1, 5, 8"]},
+            {"code":356,"indent":1,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+            {"code":111,"indent":1,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":2,"parameters":["LewdEvent"]},
+            {"code":213,"indent":2,"parameters":[0,4,false]},
+            {"code":356,"indent":2,"parameters":["AdvLoad M-007-003"]},
+            {"code":115,"indent":2,"parameters":[]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-004"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[0,109,0]},
+            {"code":111,"indent":1,"parameters":[0,140,0]},
+            {"code":111,"indent":2,"parameters":[1,203,0,0,0]},
+            {"code":108,"indent":3,"parameters":["１回目"]},
+            {"code":356,"indent":3,"parameters":["AdvLoad 036"]},
+            {"code":0,"indent":3,"parameters":[]},
+            {"code":411,"indent":2,"parameters":[]},
+            {"code":108,"indent":3,"parameters":["２回目以降"]},
+            {"code":356,"indent":3,"parameters":["AdvLoad 036_1"]},
+            {"code":0,"indent":3,"parameters":[]},
+            {"code":412,"indent":2,"parameters":[]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":411,"indent":1,"parameters":[]},
+            {"code":108,"indent":2,"parameters":["// 説明は聞いていたがこの男とは初めて会った"]},
+            {"code":356,"indent":2,"parameters":["AdvLoad 033_1"]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":411,"indent":0,"parameters":[]},
+            {"code":108,"indent":1,"parameters":["// 売春の説明"]},
+            {"code":121,"indent":1,"parameters":[109,109,0]},
+            {"code":356,"indent":1,"parameters":["AdvLoad 033"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":121,"indent":0,"parameters":[140,140,0]},
+            {"code":108,"indent":0,"parameters":["// 注釈：選択肢表示"]},
+            {"code":102,"indent":0,"parameters":[["身売りする ||| \\$POSITIVE[\u2714] Accept ||| 賣身","身売りしない ||| \\$NEGATIVE[\u2716] Refuse ||| 不賣身"],1,1,2,0]},
+            {"code":402,"indent":0,"parameters":[0,"身売りする ||| Yes ||| 賣身"]},
+            {"code":108,"indent":1,"parameters":["// 売春進行"]},
+            {"code":121,"indent":1,"parameters":[154,154,0]},
+            {"code":121,"indent":1,"parameters":[95,95,0]},
+            {"code":125,"indent":1,"parameters":[0,0,500]},
+            {"code":121,"indent":1,"parameters":[141,141,0]},
+            {"code":111,"indent":1,"parameters":[1,203,0,5,0]},
+            {"code":108,"indent":2,"parameters":["３回目汎用"]},
+            {"code":122,"indent":2,"parameters":[203,203,1,0,1]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":111,"indent":1,"parameters":[1,203,0,4,0]},
+            {"code":108,"indent":2,"parameters":["３回目"]},
+            {"code":111,"indent":2,"parameters":[1,81,1,86,1]},
+            {"code":122,"indent":3,"parameters":[203,203,1,0,1]},
+            {"code":0,"indent":3,"parameters":[]},
+            {"code":412,"indent":2,"parameters":[]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":111,"indent":1,"parameters":[1,203,0,3,0]},
+            {"code":108,"indent":2,"parameters":["２回目汎用"]},
+            {"code":122,"indent":2,"parameters":[203,203,1,0,1]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":111,"indent":1,"parameters":[1,203,0,2,0]},
+            {"code":108,"indent":2,"parameters":["２回目"]},
+            {"code":111,"indent":2,"parameters":[1,81,1,85,1]},
+            {"code":122,"indent":3,"parameters":[203,203,1,0,1]},
+            {"code":0,"indent":3,"parameters":[]},
+            {"code":412,"indent":2,"parameters":[]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":111,"indent":1,"parameters":[1,203,0,1,0]},
+            {"code":108,"indent":2,"parameters":["１回目汎用"]},
+            {"code":122,"indent":2,"parameters":[203,203,1,0,1]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":111,"indent":1,"parameters":[1,203,0,0,0]},
+            {"code":108,"indent":2,"parameters":["１回目"]},
+            {"code":122,"indent":2,"parameters":[203,203,0,0,1]},
+            {"code":0,"indent":2,"parameters":[]},
+            {"code":412,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":402,"indent":0,"parameters":[1,"身売りしない ||| No ||| 不賣身"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad 035"]},
+            {"code":241,"indent":1,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":404,"indent":0,"parameters":[]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 154,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People2",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": [
+                "AdvLoad 036_2"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 19,
+      "y": 5
+    },
+    {
+      "id": 8,
+      "name": "村人1",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,4,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-020"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,4,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-021"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,4,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-022"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,2,1]},
+            {"code":356,"indent":1,"parameters":["AdvLoad 026"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,1,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-023"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 18
+    },
+    {
+      "id": 9,
+      "name": "オーク2",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Monster",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 16
+    },
+    {
+      "id": 10,
+      "name": "イベント00",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":4,"indent":null},{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+            {"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},
+            {"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},
+            {"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},
+            {"code":213,"indent":0,"parameters":[-1,2,true]},
+            {"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":0,"parameters":["スクリプト再生"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 016"]},
+            {"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":0,"parameters":["オークとの戦い"]},
+            {"code":230,"indent":0,"parameters":[15]},
+            {"code":301,"indent":0,"parameters":[0,4,false,false]},
+            {"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":0,"parameters":["オーク撃破演出"]},
+            {"code":212,"indent":0,"parameters":[9,207,true]},
+            {"code":205,"indent":0,"parameters":[9,{"list":[{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+            {"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},
+            {"code":212,"indent":0,"parameters":[11,207,true]},
+            {"code":205,"indent":0,"parameters":[11,{"list":[{"code":39,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+            {"code":505,"indent":0,"parameters":[{"code":39,"indent":null}]},
+            {"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":0,"parameters":["スクリプト再生"]},
+            {"code":230,"indent":0,"parameters":[60]},
+            {"code":205,"indent":0,"parameters":[8,{"list":[{"code":3,"indent":null},{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},
+            {"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},
+            {"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},
+            {"code":205,"indent":0,"parameters":[12,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+            {"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},
+            {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},
+            {"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 017"]},
+            {"code":223,"indent":0,"parameters":[[-255,-255,-255,0],60,true]},
+            {"code":201,"indent":0,"parameters":[0,7,12,21,2,2]},
+            {"code":230,"indent":0,"parameters":[60]},
+            {"code":223,"indent":0,"parameters":[[0,0,0,0],60,false]},
+            {"code":122,"indent":0,"parameters":[102,102,0,0,1]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":0,"parameters":["スクリプト再生"]},
+            {"code":223,"indent":0,"parameters":[[0,0,0,0],60,true]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 042"]},
+            {"code":223,"indent":0,"parameters":[[-255,-255,-255,0],60,true]},
+            {"code":230,"indent":0,"parameters":[60]},
+            {"code":356,"indent":0,"parameters":["AdvLoad M-007-013"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad M-007-014"]},
+            {"code":230,"indent":0,"parameters":[90]},
+            {"code":250,"indent":0,"parameters":[{"name":"Coin","volume":90,"pitch":100,"pan":0}]},
+            {"code":356,"indent":0,"parameters":["AdvLoad M-007-015"]},
+            {"code":125,"indent":0,"parameters":[0,0,1000]},
+            {"code":230,"indent":0,"parameters":[120]},
+            {"code":249,"indent":0,"parameters":[{"name":"Inn","volume":90,"pitch":100,"pan":0}]},
+            {"code":314,"indent":0,"parameters":[0,0]},
+            {"code":180,"indent":0,"parameters":["*** NOTE *** The Inn ME is 8 seconds long... which is a very long confusing wait if playing without sounds..."]},
+            {"code":230,"indent":0,"parameters":[480]},
+            {"code":201,"indent":0,"parameters":[0,5,68,15,2,2]},
+            {"code":223,"indent":0,"parameters":[[0,0,0,0],60,true]},
+            {"code":121,"indent":0,"parameters":[110,110,1]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 24,
+      "y": 24
+    },
+    {
+      "id": 11,
+      "name": "オーク1",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "Monster",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 16
+    },
+    {
+      "id": 12,
+      "name": "村人2",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 18
+    },
+    {
+      "id": 13,
+      "name": "村人",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,4,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-005"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,6,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-006"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,4,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-007"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,2,1]},
+            {"code":356,"indent":1,"parameters":["AdvLoad 027"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,1,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-008"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 9
+    },
+    {
+      "id": 14,
+      "name": "村人",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People2",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,1,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-024"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,8,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-025"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,4,1]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-032-NEW"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,3,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-026"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,2,1]},
+            {"code":356,"indent":1,"parameters":["AdvLoad 028"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,1,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-027"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 13
+    },
+    {
+      "id": 15,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 11
+    },
+    {
+      "id": 16,
+      "name": "村人",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People3",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,7,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-009"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,4,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-010"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,4,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-011"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,2,1]},
+            {"code":356,"indent":1,"parameters":["AdvLoad 030"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,1,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-012"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 15
+    },
+    {
+      "id": 17,
+      "name": "村人",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 102,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,1,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-016"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,6,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-017"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,4,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-018"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,2,1]},
+            {"code":356,"indent":1,"parameters":["AdvLoad 031"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":111,"indent":0,"parameters":[1,102,0,1,1]},
+            {"code":108,"indent":1,"parameters":["#--------------------------------------------------------"]},
+            {"code":408,"indent":1,"parameters":["ダミー会話文設定"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-019"]},
+            {"code":115,"indent":1,"parameters":[]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 1,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 20
+    },
+    {
+      "id": 18,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+{
+  "conditions": {
+    "actorId": 1,
+    "actorValid": false,
+    "itemId": 1,
+    "itemValid": false,
+    "selfSwitchCh": "A",
+    "selfSwitchValid": false,
+    "switch1Id": 1,
+    "switch1Valid": false,
+    "switch2Id": 1,
+    "switch2Valid": false,
+    "variableId": 102,
+    "variableValid": true,
+    "variableValue": 4
+  },
+  "directionFix": false,
+  "image": {
+    "tileId": 0,
+    "characterName": "People6",
+    "direction": 2,
+    "pattern": 1,
+    "characterIndex": 3
+  },
+  "list": [
+    {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+    {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+    {"code":356,"indent":1,"parameters":["LewdEvent"]},
+    {"code":213,"indent":1,"parameters":[0,1,false]},
+    {"code":356,"indent":1,"parameters":["AdvLoad M-007-033-NEW"]},
+    {"code":115,"indent":1,"parameters":[]},
+    {"code":0,"indent":1,"parameters":[]},
+    {"code":412,"indent":0,"parameters":[]},
+    {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+    {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+    {"code":356,"indent":1,"parameters":["LewdEvent"]},
+    {"code":213,"indent":1,"parameters":[0,4,false]},
+    {"code":356,"indent":1,"parameters":["AdvLoad M-007-034-NEW"]},
+    {"code":115,"indent":1,"parameters":[]},
+    {"code":0,"indent":1,"parameters":[]},
+    {"code":412,"indent":0,"parameters":[]},
+    {"code":356,"indent":0,"parameters":["AdvLoad M-007-035-NEW"]},
+    {"code":0,"indent":0,"parameters":[]}
+  ],
+  "moveFrequency": 3,
+  "moveRoute": {
+    "list": [
+      {
+        "code": 0,
+        "parameters": []
+      }
+    ],
+    "repeat": true,
+    "skippable": false,
+    "wait": false
+  },
+  "moveSpeed": 3,
+  "moveType": 1,
+  "priorityType": 1,
+  "stepAnime": false,
+  "through": false,
+  "trigger": 0,
+  "walkAnime": true
+},
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People6",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 12
+    },
+    {
+      "id": 19,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People2",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 14
+    },
+    {
+      "id": 20,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People6",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 14
+    },
+    {
+      "id": 21,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People3",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 13
+    },
+    {
+      "id": 22,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People2",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 12
+    },
+    {
+      "id": 23,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+{
+  "conditions": {
+    "actorId": 1,
+    "actorValid": false,
+    "itemId": 1,
+    "itemValid": false,
+    "selfSwitchCh": "A",
+    "selfSwitchValid": false,
+    "switch1Id": 1,
+    "switch1Valid": false,
+    "switch2Id": 1,
+    "switch2Valid": false,
+    "variableId": 102,
+    "variableValid": true,
+    "variableValue": 4
+  },
+  "directionFix": false,
+  "image": {
+    "tileId": 0,
+    "characterName": "People6",
+    "direction": 2,
+    "pattern": 1,
+    "characterIndex": 2
+  },
+  "list": [
+    {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+    {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+    {"code":356,"indent":1,"parameters":["LewdEvent"]},
+    {"code":213,"indent":1,"parameters":[0,1,false]},
+    {"code":356,"indent":1,"parameters":["AdvLoad M-007-036-NEW"]},
+    {"code":115,"indent":1,"parameters":[]},
+    {"code":0,"indent":1,"parameters":[]},
+    {"code":412,"indent":0,"parameters":[]},
+    {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+    {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+    {"code":356,"indent":1,"parameters":["LewdEvent"]},
+    {"code":213,"indent":1,"parameters":[0,4,false]},
+    {"code":356,"indent":1,"parameters":["AdvLoad M-007-037-NEW"]},
+    {"code":115,"indent":1,"parameters":[]},
+    {"code":0,"indent":1,"parameters":[]},
+    {"code":412,"indent":0,"parameters":[]},
+    {"code":356,"indent":0,"parameters":["AdvLoad M-007-038-NEW"]},
+    {"code":0,"indent":0,"parameters":[]}
+  ],
+  "moveFrequency": 3,
+  "moveRoute": {
+    "list": [
+      {
+        "code": 0,
+        "parameters": []
+      }
+    ],
+    "repeat": true,
+    "skippable": false,
+    "wait": false
+  },
+  "moveSpeed": 3,
+  "moveType": 1,
+  "priorityType": 1,
+  "stepAnime": false,
+  "through": false,
+  "trigger": 0,
+  "walkAnime": true
+},
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People6",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 13
+    },
+    {
+      "id": 24,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People2",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 10
+    },
+    {
+      "id": 25,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 10
+    },
+    {
+      "id": 26,
+      "name": "イベント用",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 110,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 5
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 14
+    },
+    {
+      "id": 27,
+      "name": "売春イベント管理",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 141,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 203,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+            {"code":408,"indent":0,"parameters":["１段階目"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 036_3"]},
+            {"code":230,"indent":0,"parameters":[60]},
+            {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad cg01a"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 034"]},
+            {"code":117,"indent":0,"parameters":[10]},
+            {"code":121,"indent":0,"parameters":[141,141,1]},
+            {"code":241,"indent":0,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 141,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 203,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+            {"code":408,"indent":0,"parameters":["１段階目汎用"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 285"]},
+            {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad cg01a_r"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 286"]},
+            {"code":117,"indent":0,"parameters":[11]},
+            {"code":121,"indent":0,"parameters":[141,141,1]},
+            {"code":241,"indent":0,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 141,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 203,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+            {"code":408,"indent":0,"parameters":["２段階目"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 285"]},
+            {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad cg01b"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 286"]},
+            {"code":117,"indent":0,"parameters":[12]},
+            {"code":121,"indent":0,"parameters":[141,141,1]},
+            {"code":241,"indent":0,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 141,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 203,
+            "variableValid": true,
+            "variableValue": 4
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+            {"code":408,"indent":0,"parameters":["２段階目汎用"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 287"]},
+            {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad cg01b_r"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 286"]},
+            {"code":117,"indent":0,"parameters":[13]},
+            {"code":121,"indent":0,"parameters":[141,141,1]},
+            {"code":241,"indent":0,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 141,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 203,
+            "variableValid": true,
+            "variableValue": 5
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+            {"code":408,"indent":0,"parameters":["３段階目"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 288"]},
+            {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad cg01c"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 286"]},
+            {"code":117,"indent":0,"parameters":[14]},
+            {"code":121,"indent":0,"parameters":[141,141,1]},
+            {"code":241,"indent":0,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 141,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 203,
+            "variableValid": true,
+            "variableValue": 6
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+            {"code":408,"indent":0,"parameters":["３段階目汎用"]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 289"]},
+            {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
+            {"code":356,"indent":1,"parameters":["AdvLoad cg01c_r"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":356,"indent":0,"parameters":["AdvLoad 286"]},
+            {"code":117,"indent":0,"parameters":[15]},
+            {"code":121,"indent":0,"parameters":[141,141,1]},
+            {"code":241,"indent":0,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 21,
+      "y": 3
+    },
+    {
+      "id": 28,
+      "name": "EV028",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People4",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,4,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-028"]},
+            {"code":119,"indent":1,"parameters":["ショップ"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+            {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+            {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+            {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+            {"code":356,"indent":1,"parameters":["LewdEvent"]},
+            {"code":213,"indent":1,"parameters":[0,4,false]},
+            {"code":356,"indent":1,"parameters":["AdvLoad M-007-029"]},
+            {"code":119,"indent":1,"parameters":["ショップ"]},
+            {"code":0,"indent":1,"parameters":[]},
+            {"code":412,"indent":0,"parameters":[]},
+            {"code":356,"indent":0,"parameters":["AdvLoad M-007-030"]},
+            {"code":118,"indent":0,"parameters":["ショップ"]},
+            {"code":302,"indent":0,"parameters":[0,1,0,0,false]},
+            {"code":605,"indent":0,"parameters":[0,8,0,0]},
+            {"code":605,"indent":0,"parameters":[1,100,0,0]},
+            {"code":605,"indent":0,"parameters":[1,57,0,0]},
+            {"code":605,"indent":0,"parameters":[2,53,0,0]},
+            {"code":605,"indent":0,"parameters":[2,54,0,0]},
+            {"code":356,"indent":0,"parameters":["AdvLoad M-007-031"]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 17,
+      "y": 16
+    },
+    {
+      "id": 29,
+      "name": "EV029",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 6,
+            "characterName": "!Chest",
+            "direction": 2,
+            "pattern": 1,
+            "tileId": 0
+          },
+          "list": [
+            {"code":250,"indent":0,"parameters":[{"name":"Chest1","pan":0,"pitch":100,"volume":90}]},
+            {"code":205,"indent":0,"parameters":[0,{"list":[{"code":36},{"code":17},{"code":15,"parameters":[3]},{"code":18},{"code":15,"parameters":[3]},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+            {"code":505,"indent":0,"parameters":[{"code":36}]},
+            {"code":505,"indent":0,"parameters":[{"code":17}]},
+            {"code":505,"indent":0,"parameters":[{"code":15,"parameters":[3]}]},
+            {"code":505,"indent":0,"parameters":[{"code":18}]},
+            {"code":505,"indent":0,"parameters":[{"code":15,"parameters":[3]}]},
+            {"code":123,"indent":0,"parameters":["A",0]},
+            {"code":128,"indent":0,"parameters":[130,0,0,1]},
+            {"code":356,"indent":0,"parameters":["AdvLoad M-007-001"]},
+            {"code":0,"indent":0,"parameters":[]}
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 6,
+            "characterName": "!Chest",
+            "direction": 8,
+            "pattern": 1,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 17,
+      "y": 3
+    },
+    {
+      "id": 30,
+      "name": "EV030",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 18
+    },
+    {
+        "id": 31,
+        "name": "看板：ハルドア *** NEW *** direction board",
+        "note": "",
+        "pages":
+        [
+            {
+                "conditions":
+                {
+                    "actorId": 1,
+                    "actorValid": false,
+                    "itemId": 1,
+                    "itemValid": false,
+                    "selfSwitchCh": "A",
+                    "selfSwitchValid": false,
+                    "switch1Id": 1,
+                    "switch1Valid": false,
+                    "switch2Id": 1,
+                    "switch2Valid": false,
+                    "variableId": 1,
+                    "variableValid": false,
+                    "variableValue": 0
+                },
+                "directionFix": false,
+                "image":
+                {
+                    "tileId": 73,
+                    "characterName": "",
+                    "characterIndex": 0,
+                    "direction": 2,
+                    "pattern": 0
+                },
+                "list":
+                [
+                  {"code":356,"indent":0,"parameters":["AdvLoad M-007-039-NEW"]},
+                  {"code":0,"indent":0,"parameters":[]}
+                ],
+                "moveFrequency": 3,
+                "moveRoute":
+                {
+                    "list":
+                    [
+                        {
+                            "code": 0,
+                            "parameters":
+                            []
+                        }
+                    ],
+                    "repeat": true,
+                    "skippable": false,
+                    "wait": false
+                },
+                "moveSpeed": 3,
+                "moveType": 0,
+                "priorityType": 1,
+                "stepAnime": false,
+                "through": false,
+                "trigger": 0,
+                "walkAnime": true
+            }
+        ],
+        "x": 12,
+        "y": 11
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"Cobblestones5","battleback2Name":"Room2","bgm":{"name":"Field2","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"東の島国・港町ショップ ||| East Island Port Town - Item Shop ||| 东岛国/港城店","encounterList":[],"encounterStep":30,"height":13,"note":"港町ヤナギ","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":true,"tilesetId":8,"width":21,
+"data":[1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6883,6881,6881,6881,6881,6881,6871,6881,6881,6881,6881,6881,6871,6881,6881,6881,6881,6881,6885,1536,1536,6880,7234,7234,7234,7234,7234,6892,7234,7234,7234,7234,7234,6892,7234,7234,7234,7234,7234,6880,1536,1536,6880,7240,7240,7240,7240,7240,7239,7240,7240,7240,7240,7240,7239,7240,7240,7240,7240,7240,6880,1536,1536,6880,1559,1559,1559,1559,1559,7245,4010,1621,1622,1607,4010,7245,1559,1559,1559,1559,1559,6880,1536,1536,6880,1559,1559,1559,1559,1559,1559,4000,1621,1622,1615,4000,1559,1559,1559,1559,1559,1559,6880,1536,1536,6880,1559,1559,1559,1559,1559,1559,4009,4001,4001,4001,4007,1559,1559,1559,1559,1559,1559,6880,1536,1536,6880,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,6880,1536,1536,6880,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,6880,1536,1536,6880,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,6880,1536,1536,6880,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,1559,6880,1536,1536,6889,6881,6881,6881,6881,6881,6881,6881,6885,1559,6883,6881,6881,6881,6881,6881,6881,6881,6887,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6880,1559,6880,1536,1536,1536,1536,1536,1536,1536,1536,1536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3194,0,0,0,0,0,3962,0,0,0,3962,0,0,0,0,0,0,0,0,0,0,3184,0,0,0,0,0,3952,0,0,0,3952,0,0,0,0,0,0,0,0,0,0,3184,0,0,0,0,0,3961,3953,3953,3953,3959,0,0,0,0,0,0,0,0,0,0,3184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3193,3185,3185,3185,3197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3195,3185,3197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,32,0,0,32,0,0,0,32,0,0,32,0,32,0,0,0,0,0,0,400,401,402,403,422,0,308,309,376,0,420,0,0,0,478,479,0,0,0,0,432,408,409,410,411,430,0,316,317,305,0,428,470,475,476,0,477,0,0,0,0,0,0,416,417,418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,424,425,426,0,0,0,0,0,0,0,323,324,325,326,327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,331,332,333,334,335,0,0,0,0,464,0,432,0,0,0,0,0,0,0,0,0,0,0,0,0,491,0,0,0,0,500,501,0,0,0,0,0,0,0,0,0,0,0,498,499,500,501,0,0,0,0,508,509,0,0,0,0,0,0,0,0,0,0,0,506,507,508,509,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"J_Actor1","direction":8,"pattern":1,"characterIndex":4},"list":[{"code":117,"indent":0,"parameters":[117]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":16,"y":5},
+{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"J_People4","direction":8,"pattern":1,"characterIndex":3},"list":[{"code":117,"indent":0,"parameters":[118]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":3,"indent":null},{"code":19,"indent":null},{"code":3,"indent":null},{"code":19,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":19,"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":7},
+{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"J_Actor2","direction":6,"pattern":1,"characterIndex":0},"list":[{"code":117,"indent":0,"parameters":[119]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":17,"y":8},
+null,
+{
+    "id": 5,
+    "name": "EV005",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People1",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 下着：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-057-001"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 裸：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-057-002"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["// その他"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-057-003"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":0,"parameters":[0,2,0,0]},
+                {"code":605,"indent":0,"parameters":[0,4,0,0]},
+                {"code":605,"indent":0,"parameters":[0,7,0,0]},
+                {"code":605,"indent":0,"parameters":[0,8,0,0]},
+                {"code":605,"indent":0,"parameters":[0,9,0,0]},
+                {"code":605,"indent":0,"parameters":[0,8,0,0]},
+                {"code":605,"indent":0,"parameters":[0,11,0,0]},
+                {"code":605,"indent":0,"parameters":[0,15,0,0]},
+                {"code":605,"indent":0,"parameters":[1,7,0,0]},
+                {"code":605,"indent":0,"parameters":[1,108,0,0]},
+                {"code":605,"indent":0,"parameters":[1,60,0,0]},
+                {"code":605,"indent":0,"parameters":[2,81,0,0]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-057-004"]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 10,
+    "y": 5
+},
+{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,56,9,18,0,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":10,"y":12}
+]
+}

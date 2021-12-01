@@ -1,0 +1,351 @@
+{
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"DarkSpace","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"神威城・異空間 ||| Unknown Dimension ||| 神威城/异空间","encounterList":[],"encounterStep":30,"height":13,"note":"神威城・異空間","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"DarkSpace1","parallaxShow":true,"parallaxSx":0,"parallaxSy":1,"scrollType":1,"specifyBattleback":true,"tilesetId":4,"width":17,
+"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+null,
+null,
+{
+    "id": 3,
+    "name": "EV003",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 376,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":111,"indent":0,"parameters":[0,91,0]},
+                {"code":108,"indent":1,"parameters":["// 注釈　非処女の場合"]},
+                {"code":111,"indent":1,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg17_1"]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":411,"indent":0,"parameters":[]},
+                {"code":108,"indent":1,"parameters":["// 注釈　処女の場合"]},
+                {"code":111,"indent":1,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg17_0"]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":122,"indent":0,"parameters":[376,376,1,0,1]},
+                {"code":117,"indent":0,"parameters":[36]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 376,
+                "variableValid": true,
+                "variableValue": 2
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 209"]},
+                {"code":122,"indent":0,"parameters":[376,376,1,0,1]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 376,
+                "variableValid": true,
+                "variableValue": 3
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg18"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":117,"indent":0,"parameters":[37]},
+                {"code":122,"indent":0,"parameters":[376,376,1,0,1]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 376,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 210"]},
+                {"code":111,"indent":0,"parameters":[12,"ConfigManager.allowContinueAfterDefeat"]},
+                {"code":221,"indent":1,"parameters":[]},
+                {"code":230,"indent":1,"parameters":[120]},
+                {"code":121,"indent":1,"parameters":[356,356,1]},
+                {"code":122,"indent":1,"parameters":[91,91,0,0,8]},
+                {"code":201,"indent":1,"parameters":[0,120,7,8,0,2]},
+                {"code":122,"indent":1,"parameters":[376,376,0,0,0]},
+                {"code":122,"indent":1,"parameters":[374,374,0,0,0]},
+                {"code":356,"indent":1,"parameters":["AdvExec @clear"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":411,"indent":0,"parameters":[]},
+                {"code":353,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 376,
+                "variableValid": true,
+                "variableValue": 5
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters":
+                    []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 0,
+    "y": 3
+},
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+}

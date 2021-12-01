@@ -1,0 +1,4 @@
+
+;; ■ Royal Castle
+
+[Soldier]「...」

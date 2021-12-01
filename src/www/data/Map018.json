@@ -1,0 +1,1114 @@
+{
+"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"Wood1","battleback2Name":"Room1","bgm":{"name":"Town1","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"プロフト・道具屋 ||| Harvest Town - Tool Store ||| 工具车间","encounterList":[],"encounterStep":30,"height":15,"note":"プロフト","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":true,"tilesetId":3,"width":13,
+"data":[
+    1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,
+    1536,6835,6833,6833,6833,6833,6833,6833,6833,6833,6833,6837,1536,
+    1536,6832,7042,7042,7042,7042,7042,7042,7042,7042,7042,6832,1536,
+    1536,6832,7048,7048,7048,7048,7048,7048,7048,7048,7048,6832,1536,
+    1536,6832,2850,2836,2836,2836,2836,2836,2836,2836,2852,6832,1536,
+    1536,6832,2832,2816,2816,2816,2816,2816,2816,2816,2840,6832,1536,
+    1536,6832,2832,2816,2816,2816,2816,2816,2816,2816,2840,6832,1536,
+    1536,6832,2856,2844,2844,2844,2844,2824,2816,2816,2840,6832,1536,
+    1536,6832,3387,3377,3377,3377,3389,2832,2816,2816,2840,6832,1536,
+    1536,6832,2850,2836,2836,2836,2836,2817,2816,2816,2840,6832,1536,
+    1536,6832,2832,2816,2816,2816,2816,2816,2816,2816,2840,6832,1536,
+    1536,6832,2832,2816,2816,2816,2816,2816,2816,2816,2840,6832,1536,
+    1536,6832,2856,2844,2844,2844,2828,2844,2844,2844,2854,6832,1536,
+    1536,6841,6833,6833,6833,6837,2848,6835,6833,6833,6833,6839,1536,
+    1536,1536,1536,1536,1536,6832,2848,6832,1536,1536,1536,1536,1536,
+
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,3184,0,0,0,0,0,0,
+    0,0,0,0,0,0,3184,0,0,0,0,0,0,
+    0,0,0,0,0,0,3184,0,3186,3172,3188,0,0,
+    0,0,3195,3185,3185,3185,3191,0,3192,3180,3190,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,3186,3188,0,0,0,
+    0,0,0,0,0,0,0,0,3168,3176,0,0,0,
+    0,0,0,0,0,0,0,0,3192,3190,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,67,0,0,0,0,0,
+    0,0,0,0,0,0,0,75,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,320,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,32,0,0,32,0,0,0,0,0,0,0,
+    0,0,40,70,71,40,0,68,66,67,68,0,0,
+    0,0,209,78,79,209,0,76,74,75,76,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,104,0,0,0,339,359,357,0,0,
+    0,0,0,0,328,0,0,0,324,312,366,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,377,376,0,0,0,
+    0,0,0,0,0,0,0,0,0,378,0,0,0,
+    0,0,0,0,0,0,0,0,413,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,5,
+    0,0,0,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,5,0,0,0,0,0,0,0,0,0,5,
+    0,0,0,0,0,0,0,0,0,0,0,0,5,
+    0,0,0,0,0,0,5,0,5,0,0,0,0,
+
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,0,0,0,0,0,0,0,0,0,0,0
+],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":6,"y":2},
+{
+    "id": 2,
+    "name": "EV002 - Shop owner",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": true,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 325"]},
+                {"code":122,"indent":0,"parameters":[202,202,0,0,1]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 202,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":122,"indent":0,"parameters":[201,201,0,3,2,61,0]},
+                {"code":111,"indent":0,"parameters":[1,201,0,3,1]},
+                {"code":102,"indent":1,"parameters":[["イビルアイの瞳を3個渡す(現在所持数\\v[201]個） ||| Give \\$ACCESSORY[61] x \\C[29]3\\C[0] (\\C[29]\\v[201]\\C[0] in inventory)","道具を買う ||| Buy items"],1,0,2,0]},
+                {"code":402,"indent":1,"parameters":[0,"イビルアイの瞳を3個渡す(現在所持数\\v[201]個）"]},
+                {"code":122,"indent":2,"parameters":[201,201,0,0,0]},
+                {"code":108,"indent":2,"parameters":["*** NEW *** Remove 3 demon eyeballs from the inventory:"]},
+                {"code":128,"indent":2,"parameters":[61,1,0,3,false]},
+                {"code":356,"indent":2,"parameters":["AdvLoad 329"]},
+                {"code":205,"indent":2,"parameters":[0,{"list":[{"code":3,"indent":null},{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+                {"code":505,"indent":2,"parameters":[{"code":3,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":4,"indent":null}]},
+                {"code":230,"indent":2,"parameters":[60]},
+                {"code":205,"indent":2,"parameters":[-1,{"list":[{"code":3,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":2,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":2,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":2,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":3,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":3,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":19,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+                {"code":505,"indent":2,"parameters":[{"code":3,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":2,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":2,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":2,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":3,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":3,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":19,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":213,"indent":2,"parameters":[-1,8,true]},
+                {"code":205,"indent":2,"parameters":[-1,{"list":[{"code":3,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":2,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":2,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":2,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":3,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":3,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":19,"indent":null},{"code":15,"parameters":[40],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},
+                {"code":505,"indent":2,"parameters":[{"code":3,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":2,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":2,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":2,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":3,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":3,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":19,"indent":null}]},
+                {"code":505,"indent":2,"parameters":[{"code":15,"parameters":[40],"indent":null}]},
+                {"code":213,"indent":2,"parameters":[-1,8,true]},
+                {"code":356,"indent":2,"parameters":["AdvLoad 330"]},
+                {"code":108,"indent":2,"parameters":["戦闘バランスを把握して無いので、仮の装飾品を入れています。"]},
+                {"code":408,"indent":2,"parameters":["秘蔵のアイテムなので、それ相応の旅に役立つアイテム（装飾品）を。"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad M-018-001"]},
+                {"code":128,"indent":2,"parameters":[133,0,0,1,false]},
+                {"code":356,"indent":2,"parameters":["AdvLoad 332"]},
+                {"code":221,"indent":2,"parameters":[]},
+                {"code":108,"indent":2,"parameters":["鏡非表示、表示命令はシナリオの方に記載"]},
+                {"code":121,"indent":2,"parameters":[160,160,1]},
+                {"code":230,"indent":2,"parameters":[120]},
+                {"code":222,"indent":2,"parameters":[]},
+                {"code":356,"indent":2,"parameters":["AdvLoad 333"]},
+                {"code":108,"indent":2,"parameters":["*** NEW *** CG scene setup"]},
+                {"code":121,"indent":2,"parameters":[159,159,0]},
+                {"code":355,"indent":2,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 1)"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg22a_begin-NEW"]},
+                {"code":111,"indent":2,"parameters":[10,189,true]},
+                {"code":0,"indent":3,"parameters":[]},
+                {"code":411,"indent":2,"parameters":[]},
+                {"code":128,"indent":3,"parameters":[189,0,0,1,false]},
+                {"code":0,"indent":3,"parameters":[]},
+                {"code":412,"indent":2,"parameters":[]},
+                {"code":356,"indent":2,"parameters":["SaveActorEquip 199 1"]},
+                {"code":319,"indent":2,"parameters":[1,4,189]},
+                {"code":111,"indent":2,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":3,"parameters":["AdvLoad cg22a"]},
+                {"code":0,"indent":3,"parameters":[]},
+                {"code":412,"indent":2,"parameters":[]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg22a_end-NEW"]},
+                {"code":356,"indent":2,"parameters":["RestoreActorEquip 199 1 4"]},
+                {"code":128,"indent":2,"parameters":[189,1,0,1,true]},
+                {"code":355,"indent":2,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 0)"]},
+                {"code":117,"indent":2,"parameters":[51]},
+                {"code":121,"indent":2,"parameters":[154,154,0]},
+                {"code":108,"indent":2,"parameters":["Ｈイベのときのみ青年を出しているので、非表示の為スイッチをＯＦＦ"]},
+                {"code":121,"indent":2,"parameters":[159,159,1]},
+                {"code":230,"indent":2,"parameters":[120]},
+                {"code":222,"indent":2,"parameters":[]},
+                {"code":356,"indent":2,"parameters":["AdvLoad 334"]},
+                {"code":122,"indent":2,"parameters":[202,202,0,0,2]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":402,"indent":1,"parameters":[1,"道具を買う"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad 328"]},
+                {"code":108,"indent":2,"parameters":["ショップ処理の場所にジャンプ"]},
+                {"code":119,"indent":2,"parameters":["薬購入"]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":404,"indent":1,"parameters":[]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":411,"indent":0,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 326"]},
+                {"code":118,"indent":1,"parameters":["薬購入"]},
+                {"code":302,"indent":1,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":1,"parameters":[0,2,0,0]},
+                {"code":605,"indent":1,"parameters":[0,4,0,0]},
+                {"code":605,"indent":1,"parameters":[0,8,0,0]},
+                {"code":605,"indent":1,"parameters":[0,7,0,0]},
+                {"code":605,"indent":1,"parameters":[0,12,0,0]},
+                {"code":605,"indent":1,"parameters":[0,17,0,0]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":122,"indent":0,"parameters":[201,201,0,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 202,
+                "variableValid": true,
+                "variableValue": 2
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+                {"code":408,"indent":0,"parameters":["１段階目汎用"]},
+                {"code":102,"indent":0,"parameters":[["店番をする ||| Handle customers","道具を買う ||| Buy items"],1,0,2,0]},
+                {"code":402,"indent":0,"parameters":[0,"店番をする"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 337"]},
+                {"code":108,"indent":1,"parameters":["*** NEW *** CG scene setup"]},
+                {"code":121,"indent":1,"parameters":[159,159,0]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 1)"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_begin-NEW"]},
+                {"code":111,"indent":1,"parameters":[10,189,true]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":411,"indent":1,"parameters":[]},
+                {"code":128,"indent":2,"parameters":[189,0,0,1,false]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["SaveActorEquip 199 1"]},
+                {"code":319,"indent":1,"parameters":[1,4,189]},
+                {"code":111,"indent":1,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg22a_r"]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_end-NEW"]},
+                {"code":356,"indent":1,"parameters":["RestoreActorEquip 199 1 4"]},
+                {"code":128,"indent":2,"parameters":[189,1,0,1,true]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 0)"]},
+                {"code":117,"indent":1,"parameters":[52]},
+                {"code":121,"indent":1,"parameters":[154,154,0]},
+                {"code":230,"indent":1,"parameters":[120]},
+                {"code":222,"indent":1,"parameters":[]},
+                {"code":230,"indent":1,"parameters":[60]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 339"]},
+                {"code":111,"indent":1,"parameters":[1,81,0,51,1]},
+                {"code":122,"indent":2,"parameters":[202,202,0,0,3]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":241,"indent":1,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":402,"indent":0,"parameters":[1,"道具を買う"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 328"]},
+                {"code":302,"indent":1,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":1,"parameters":[0,2,0,0]},
+                {"code":605,"indent":1,"parameters":[0,4,0,0]},
+                {"code":605,"indent":1,"parameters":[0,8,0,0]},
+                {"code":605,"indent":1,"parameters":[0,7,0,0]},
+                {"code":605,"indent":1,"parameters":[0,12,0,0]},
+                {"code":605,"indent":1,"parameters":[0,17,0,0]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":404,"indent":0,"parameters":[]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 202,
+                "variableValid": true,
+                "variableValue": 3
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+                {"code":408,"indent":0,"parameters":["２段階目"]},
+                {"code":102,"indent":0,"parameters":[["店番をする ||| Handle customers","道具を買う ||| Buy items"],1,0,2,0]},
+                {"code":402,"indent":0,"parameters":[0,"店番をする"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 338"]},
+                {"code":108,"indent":1,"parameters":["*** NEW *** CG scene setup"]},
+                {"code":121,"indent":1,"parameters":[159,159,0]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 1)"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_begin-NEW"]},
+                {"code":111,"indent":1,"parameters":[10,189,true]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":411,"indent":1,"parameters":[]},
+                {"code":128,"indent":2,"parameters":[189,0,0,1,false]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["SaveActorEquip 199 1"]},
+                {"code":319,"indent":1,"parameters":[1,4,189]},
+                {"code":111,"indent":1,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg22b"]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_end-NEW"]},
+                {"code":356,"indent":1,"parameters":["RestoreActorEquip 199 1 4"]},
+                {"code":128,"indent":2,"parameters":[189,1,0,1,true]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 0)"]},
+                {"code":117,"indent":1,"parameters":[53]},
+                {"code":121,"indent":1,"parameters":[154,154,0]},
+                {"code":230,"indent":1,"parameters":[120]},
+                {"code":222,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 339"]},
+                {"code":122,"indent":1,"parameters":[202,202,0,0,4]},
+                {"code":241,"indent":1,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":402,"indent":0,"parameters":[1,"道具を買う"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 328"]},
+                {"code":302,"indent":1,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":1,"parameters":[0,2,0,0]},
+                {"code":605,"indent":1,"parameters":[0,4,0,0]},
+                {"code":605,"indent":1,"parameters":[0,8,0,0]},
+                {"code":605,"indent":1,"parameters":[0,7,0,0]},
+                {"code":605,"indent":1,"parameters":[0,12,0,0]},
+                {"code":605,"indent":1,"parameters":[0,17,0,0]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":404,"indent":0,"parameters":[]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 202,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+                {"code":408,"indent":0,"parameters":["２段階目汎用"]},
+                {"code":102,"indent":0,"parameters":[["店番をする ||| Handle customers","道具を買う ||| Buy items"],1,0,2,0]},
+                {"code":402,"indent":0,"parameters":[0,"店番をする"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 340"]},
+                {"code":108,"indent":1,"parameters":["*** NEW *** CG scene setup"]},
+                {"code":121,"indent":1,"parameters":[159,159,0]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 1)"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_begin-NEW"]},
+                {"code":111,"indent":1,"parameters":[10,189,true]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":411,"indent":1,"parameters":[]},
+                {"code":128,"indent":2,"parameters":[189,0,0,1,false]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["SaveActorEquip 199 1"]},
+                {"code":319,"indent":1,"parameters":[1,4,189]},
+                {"code":111,"indent":1,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg22b_r"]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_end-NEW"]},
+                {"code":356,"indent":1,"parameters":["RestoreActorEquip 199 1 4"]},
+                {"code":128,"indent":2,"parameters":[189,1,0,1,true]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 0)"]},
+                {"code":117,"indent":1,"parameters":[54]},
+                {"code":121,"indent":1,"parameters":[154,154,0]},
+                {"code":230,"indent":1,"parameters":[120]},
+                {"code":222,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 339"]},
+                {"code":111,"indent":1,"parameters":[1,81,0,81,1]},
+                {"code":122,"indent":2,"parameters":[202,202,0,0,5]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":241,"indent":1,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":402,"indent":0,"parameters":[1,"道具を買う"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 328"]},
+                {"code":302,"indent":1,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":1,"parameters":[0,2,0,0]},
+                {"code":605,"indent":1,"parameters":[0,4,0,0]},
+                {"code":605,"indent":1,"parameters":[0,8,0,0]},
+                {"code":605,"indent":1,"parameters":[0,7,0,0]},
+                {"code":605,"indent":1,"parameters":[0,12,0,0]},
+                {"code":605,"indent":1,"parameters":[0,17,0,0]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":404,"indent":0,"parameters":[]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 202,
+                "variableValid": true,
+                "variableValue": 5
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["＝＝＝＝＝＝＝＝＝＝＝＝＝＝"]},
+                {"code":408,"indent":0,"parameters":["３段階目"]},
+                {"code":102,"indent":0,"parameters":[["店番をする ||| Handle customers","道具を買う ||| Buy items"],1,0,2,0]},
+                {"code":402,"indent":0,"parameters":[0,"店番をする"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 341"]},
+                {"code":108,"indent":1,"parameters":["*** NEW *** CG scene setup"]},
+                {"code":121,"indent":1,"parameters":[159,159,0]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 1)"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_begin-NEW"]},
+                {"code":111,"indent":1,"parameters":[10,189,true]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":411,"indent":1,"parameters":[]},
+                {"code":128,"indent":2,"parameters":[189,0,0,1,false]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":111,"indent":1,"parameters":[10,190,true]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":411,"indent":1,"parameters":[]},
+                {"code":111,"indent":2,"parameters":[10,188,true]},
+                {"code":128,"indent":3,"parameters":[190,0,0,1,false]},
+                {"code":0,"indent":3,"parameters":[]},
+                {"code":412,"indent":2,"parameters":[]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["SaveActorEquip 199 1"]},
+                {"code":319,"indent":1,"parameters":[1,4,189]},
+                {"code":111,"indent":1,"parameters":[12,"ConfigManager.showAdultContent"]},
+                {"code":356,"indent":2,"parameters":["AdvLoad cg22c"]},
+                {"code":0,"indent":2,"parameters":[]},
+                {"code":412,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad cg22a_end-NEW"]},
+                {"code":356,"indent":1,"parameters":["RestoreActorEquip 199 1 4"]},
+                {"code":355,"indent":1,"parameters":["$gameSelfSwitches.setValue([ 18, 7, \"A\" ], 0)"]},
+                {"code":117,"indent":1,"parameters":[55]},
+                {"code":201,"indent":1,"parameters":[0,18,4,8,8,2]},
+                {"code":230,"indent":1,"parameters":[120]},
+                {"code":122,"indent":1,"parameters":[201,201,0,0,1]},
+                {"code":222,"indent":1,"parameters":[]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 342"]},
+                {"code":242,"indent":1,"parameters":[1]},
+                {"code":221,"indent":1,"parameters":[]},
+                {"code":230,"indent":1,"parameters":[60]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-018-002"]},
+                {"code":230,"indent":1,"parameters":[120]},
+                {"code":201,"indent":1,"parameters":[0,16,19,32,2,2]},
+                {"code":122,"indent":1,"parameters":[202,202,0,0,6]},
+                {"code":222,"indent":1,"parameters":[]},
+                {"code":241,"indent":1,"parameters":[{"name":"Town1","volume":90,"pitch":100,"pan":0}]},
+                {"code":108,"indent":1,"parameters":["*** NEW ***"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-018-003-NEW"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":402,"indent":0,"parameters":[1,"道具を買う"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad 328"]},
+                {"code":302,"indent":1,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":1,"parameters":[0,2,0,0]},
+                {"code":605,"indent":1,"parameters":[0,4,0,0]},
+                {"code":605,"indent":1,"parameters":[0,8,0,0]},
+                {"code":605,"indent":1,"parameters":[0,7,0,0]},
+                {"code":605,"indent":1,"parameters":[0,12,0,0]},
+                {"code":605,"indent":1,"parameters":[0,17,0,0]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":404,"indent":0,"parameters":[]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 202,
+                "variableValid": true,
+                "variableValue": 6
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 335"]},
+                {"code":302,"indent":0,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":0,"parameters":[0,2,0,0]},
+                {"code":605,"indent":0,"parameters":[0,4,0,0]},
+                {"code":605,"indent":0,"parameters":[0,8,0,0]},
+                {"code":605,"indent":0,"parameters":[0,7,0,0]},
+                {"code":605,"indent":0,"parameters":[0,12,0,0]},
+                {"code":605,"indent":0,"parameters":[0,17,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 154,
+                "switch1Valid": true,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 336"]},
+                {"code":302,"indent":0,"parameters":[0,1,0,0,false]},
+                {"code":605,"indent":0,"parameters":[0,2,0,0]},
+                {"code":605,"indent":0,"parameters":[0,4,0,0]},
+                {"code":605,"indent":0,"parameters":[0,8,0,0]},
+                {"code":605,"indent":0,"parameters":[0,7,0,0]},
+                {"code":605,"indent":0,"parameters":[0,12,0,0]},
+                {"code":605,"indent":0,"parameters":[0,17,0,0]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 4,
+    "y": 6
+},
+{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,16,19,32,2,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":1,"walkAnime":true}],"x":6,"y":14},
+{
+    "id": 4,
+    "name": "K - Customer",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters":
+                    []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": true,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 159,
+                "switch2Valid": true,
+                "variableId": 201,
+                "variableValid": false,
+                "variableValue": 3
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People1",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list":
+            [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters":
+                    []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": true,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 6,
+    "y": 15
+},
+{"id":5,"name":"イビルアイの瞳変数","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":122,"indent":0,"parameters":[201,201,0,3,2,61,0]},{"code":111,"indent":0,"parameters":[1,201,0,3,1]},{"code":122,"indent":1,"parameters":[201,201,0,0,3]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":201,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}],"x":12,"y":3},
+{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":160,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":382,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":7}
+,
+{
+    "id": 7,
+    "name": "EV007 - *** NEW *** counter hole",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad M-018-004-NEW"]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 1,
+            "walkAnime": true
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": true,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "",
+                "characterIndex": 0,
+                "direction": 2,
+                "pattern": 0
+            },
+            "list":
+            [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters":
+                    []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 6,
+    "y": 5
+}
+]
+}

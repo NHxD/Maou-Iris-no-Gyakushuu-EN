@@ -1,0 +1,4 @@
+
+;; ■ Burning Castle
+
+[Soldier]「Oww...」

@@ -1,0 +1,227 @@
+{
+"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"Wood2","battleback2Name":"Room1","bgm":{"name":"Town5","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"街・武器商人 ||| Southern City - Weapon Shop ||| 城镇/武器商人","encounterList":[],"encounterStep":30,"height":15,"note":"スクルマ","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":true,"tilesetId":3,"width":20,
+"data":[1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6835,6833,6833,6833,6833,6833,6833,6833,6833,6833,6837,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,7139,7138,7138,7138,7138,7138,7138,7138,7142,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,7145,7144,7144,7144,7144,7144,7144,7144,7148,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3234,3220,3220,3220,3220,3220,3220,3220,3236,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3216,3200,3200,3200,3200,3200,3200,3200,3224,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3216,3200,3200,3200,3200,3200,3200,3200,3224,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3216,3200,3200,3200,3200,3200,3200,3200,3224,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3216,3200,3200,3200,3200,3200,3200,3200,3224,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3216,3200,3200,3200,3200,3200,3200,3200,3224,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3240,3228,3228,3228,3212,3228,3228,3228,3238,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,6841,6833,6833,6833,6837,3232,6835,6833,6833,6833,6839,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6832,3232,6832,1536,1536,1536,1536,1536,1536,1536,1536,1536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3282,3268,3268,3268,3268,3268,3269,3281,3293,0,0,0,0,0,0,0,0,0,0,0,3266,3276,3276,3276,3276,3256,3272,3195,3197,0,0,0,0,0,0,0,0,0,0,0,3280,3186,3172,3172,3188,3264,3250,3268,3284,0,0,0,0,0,0,0,0,0,0,0,3280,3192,3180,3180,3190,3264,3248,3248,3272,0,0,0,0,0,0,0,0,0,0,0,3265,3268,3268,3268,3268,3249,3248,3248,3272,0,0,0,0,0,0,0,0,0,0,0,3264,3248,3248,3248,3248,3248,3248,3248,3272,0,0,0,0,0,0,0,0,0,0,0,3288,3276,3276,3276,3260,3276,3276,3276,3286,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,148,0,0,0,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156,157,0,0,0,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,148,149,148,148,148,149,148,148,148,0,0,0,0,0,0,0,0,0,0,0,431,430,156,156,156,157,156,156,156,0,0,0,0,0,0,0,0,0,0,0,439,438,0,0,0,0,0,0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,356,0,0,0,0,0,0,0,0,0,0,0,0,0,386,386,388,389,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,395,394,403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,378,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,138,14,16,2,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":9,"y":14},
+{
+    "id": 2,
+    "name": "EV002",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 360,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {"code":356,"indent":0,"parameters":["AdvLoad 187"]},
+                {"code":122,"indent":0,"parameters":[360,360,1,0,10]},
+                {"code":122,"indent":0,"parameters":[361,361,1,0,1]},
+                {"code":108,"indent":0,"parameters":["*** NEW *** Unlock NPC movements (quest completed)"]},
+                {"code":122,"indent":0,"parameters":[378,378,0,0,5]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 3,
+            "walkAnime": false
+        },
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 360,
+                "variableValid": true,
+                "variableValue": 10
+            },
+            "directionFix": false,
+            "image":
+            {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list":
+            [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters":
+                    []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 0,
+    "y": 0
+},
+{
+    "id": 3,
+    "name": "EV003",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 360,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People1",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 下着：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-135-001"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 裸：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-135-002"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["// その他"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-135-003"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[1,11,0,0,false]},
+                {"code":605,"indent":0,"parameters":[1,64,0,0]},
+                {"code":605,"indent":0,"parameters":[1,129,0,0]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-135-004"]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 13,
+    "y": 6
+},
+{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":0,"y":2},
+{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":0,"y":3},
+null
+]
+}

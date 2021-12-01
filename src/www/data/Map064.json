@@ -1,0 +1,200 @@
+{
+"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"Cobblestones4","battleback2Name":"Room2","bgm":{"name":"Theme1","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"グラン王国・武具屋 ||| Grand Kingdom - Armor Shop ||| 大王国/盔甲店","encounterList":[],"encounterStep":30,"height":13,"note":"グラン王国","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":true,"tilesetId":3,"width":21,
+"data":[1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,6786,6772,6772,6772,6772,6773,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6789,1536,1536,6768,6752,6752,6752,6752,6776,7091,7090,7090,7090,7090,7090,7090,7090,7090,7090,7090,7094,6784,1536,1536,6768,6752,6752,6752,6752,6776,7097,7096,7096,7096,7096,7096,7096,7096,7096,7096,7096,7100,6784,1536,1536,6770,6780,6780,6780,6780,6790,3234,3220,3220,3220,3220,3220,3220,3220,3220,3220,3220,3236,6784,1536,1536,6784,7091,7090,7090,7090,7094,3216,3200,3200,3200,3200,3200,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,7097,7096,7096,7096,7100,3216,3200,3200,3204,3228,3208,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3618,3604,3604,3604,3620,3216,3200,3200,3224,2954,3216,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3600,3584,3584,3584,3608,3216,3200,3200,3224,2944,3216,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3600,3584,3584,3584,3608,3216,3200,3200,3224,2944,3216,3200,3200,3200,3200,3200,3224,6784,1536,1536,6784,3624,3612,3612,3612,3622,3240,3228,3228,3238,2956,3240,3228,3228,3212,3228,3228,3238,6784,1536,1536,6793,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6785,6797,3232,6795,6785,6785,6791,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,1536,7103,3232,7103,1536,1536,1536,1536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3282,3268,3284,3194,3282,3268,3269,3281,3281,3281,3281,3285,0,0,0,0,0,0,0,0,0,3264,3248,3272,3184,3264,3248,3272,3186,3172,3172,3188,3280,0,0,0,0,0,0,0,0,0,3264,3248,3272,3184,3288,3256,3272,3192,3180,3180,3190,3280,0,0,0,0,3666,3652,3652,3652,3668,3264,3248,3272,3184,0,3264,3250,3268,3269,3281,3281,3275,0,0,0,0,3672,3640,3632,3632,3656,3264,3248,3272,3184,0,3264,3248,3248,3272,3186,3188,3280,0,0,0,0,3962,3672,3640,3632,3656,3264,3248,3272,3184,0,3264,3248,3248,3272,3192,3190,3280,0,0,0,0,3961,3965,3672,3660,3670,3288,3276,3286,3196,0,3288,3276,3276,3262,3281,3281,3287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,39,0,0,39,0,0,0,0,0,0,0,0,0,0,51,51,51,0,431,430,0,47,0,0,47,431,0,0,0,0,0,0,0,0,0,59,59,59,0,439,438,0,0,0,0,0,439,0,0,0,0,0,39,0,39,0,0,0,0,356,0,0,0,386,386,388,389,0,0,0,0,0,0,47,0,430,431,0,0,0,0,0,0,0,395,394,403,0,0,0,0,0,0,406,407,405,438,439,0,0,0,344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,402,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,0,0,0,0,400,401,0,0,0,0,0,0,0,209,209,224,0,0,0,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":16,"y":2},
+{
+    "id": 2,
+    "name": "EV002",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 4
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 下着：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-064-001"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 裸：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-064-002"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["// その他"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-064-003"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[1,8,0,0,false]},
+                {"code":605,"indent":0,"parameters":[1,62,0,0]},
+                {"code":605,"indent":0,"parameters":[1,110,0,0]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-064-004"]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 9,
+    "y": 8
+},
+{
+    "id": 3,
+    "name": "EV003",
+    "note": "",
+    "pages":
+    [
+        {
+            "conditions":
+            {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image":
+            {
+                "tileId": 0,
+                "characterName": "People4",
+                "direction": 6,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list":
+            [
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 8"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains sitagi or Body contains mizugi"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 下着：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-064-005"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["*** COMMENTED ***"]},
+                {"code":408,"indent":0,"parameters":["If : 4, 1, 5, 10"]},
+                {"code":356,"indent":0,"parameters":["HasActorNote 201 1 2 Body contains hadaka"]},
+                {"code":111,"indent":0,"parameters":[1,201,0,1,0]},
+                {"code":356,"indent":1,"parameters":["LewdEvent"]},
+                {"code":108,"indent":1,"parameters":["// 裸：装備時"]},
+                {"code":356,"indent":1,"parameters":["AdvLoad M-064-006"]},
+                {"code":119,"indent":1,"parameters":["ショップ"]},
+                {"code":0,"indent":1,"parameters":[]},
+                {"code":412,"indent":0,"parameters":[]},
+                {"code":108,"indent":0,"parameters":["// その他"]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-064-007"]},
+                {"code":118,"indent":0,"parameters":["ショップ"]},
+                {"code":302,"indent":0,"parameters":[2,84,0,0,false]},
+                {"code":605,"indent":0,"parameters":[2,85,0,0]},
+                {"code":605,"indent":0,"parameters":[2,86,0,0]},
+                {"code":605,"indent":0,"parameters":[2,87,0,0]},
+                {"code":605,"indent":0,"parameters":[2,88,0,0]},
+                {"code":605,"indent":0,"parameters":[2,89,0,0]},
+                {"code":605,"indent":0,"parameters":[2,115,0,0]},
+                {"code":605,"indent":0,"parameters":[2,116,0,0]},
+                {"code":605,"indent":0,"parameters":[2,117,0,0]},
+                {"code":605,"indent":0,"parameters":[2,118,0,0]},
+                {"code":605,"indent":0,"parameters":[2,119,0,0]},
+                {"code":605,"indent":0,"parameters":[2,120,0,0]},
+                {"code":605,"indent":0,"parameters":[2,127,0,0]},
+                {"code":356,"indent":0,"parameters":["AdvLoad M-064-008"]},
+                {"code":0,"indent":0,"parameters":[]}
+            ],
+            "moveFrequency": 3,
+            "moveRoute":
+            {
+                "list":
+                [
+                    {
+                        "code": 0,
+                        "parameters":
+                        []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 9,
+    "y": 6
+},
+{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":2,"pattern":1,"characterIndex":3},"list":[{"code":117,"indent":0,"parameters":[136]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":16,"y":7},
+{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Move1","pan":0,"pitch":100,"volume":90}]},{"code":201,"indent":0,"parameters":[0,63,29,8,0,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":15,"y":12}
+]
+}

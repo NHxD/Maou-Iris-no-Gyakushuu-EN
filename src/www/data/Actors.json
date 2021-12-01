@@ -1,0 +1,273 @@
+[
+    null,
+    {
+        "id": 1,
+        "race": "Demon",
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "iris_normal",
+        "classId": 4,
+        "equips":
+        [
+            1,
+            1,
+            2,
+            4,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "iris_normal",
+        "traits":
+        [
+            {
+                "code": 52,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "イリス",
+        "nickname": "魔王",
+        "note": "<morale_var_id:41>\n<raceId:2>\n<en:Elise,Devil,She may look like a cute human girl but she's actually the Devil.>\n<ch:伊利丝,魔王,虽然看上去是个美貌少女、却是魔王。>",
+        "profile": "少女の見た目をしているが、魔王。"
+    },
+    {
+        "id": 2,
+        "race": "Human",
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "sion",
+        "classId": 1,
+        "equips":
+        [
+            132,
+            0,
+            2,
+            27,
+            103
+        ],
+        "faceIndex": 0,
+        "faceName": "sion",
+        "traits":
+        [
+            {
+                "code": 52,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "initialLevel": 50,
+        "maxLevel": 99,
+        "name": "シオン",
+        "nickname": "勇者",
+        "note": "<raceId:1>\n<en:Chiot,Hero,The gentle and capable hero of Grand Kingdom.>\n<ch:西欧,勇者,溫柔與實力兼備的勇者>",
+        "profile": "優しさと強さをあわせ持つ勇者。"
+    },
+    {
+        "id": 3,
+        "race": "Human",
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "sonia_normal",
+        "classId": 7,
+        "equips":
+        [
+            89,
+            0,
+            2,
+            23,
+            164
+        ],
+        "faceIndex": 0,
+        "faceName": "sonia_normal",
+        "traits":
+        [
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 30,
+        "maxLevel": 99,
+        "name": "ソニア",
+        "nickname": "姫",
+        "note": "<raceId:1>\n<en:Sonia,Princess,The third princess of Grand Kingdom.>\n<ch:索妮娅,公主,格兰王國的公主>",
+        "profile": "グラン王国の姫。"
+    },
+    {
+        "id": 4,
+        "race": "Dark Elf",
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "zexy_normal",
+        "classId": 8,
+        "equips":
+        [
+            46,
+            0,
+            2,
+            19,
+            176
+        ],
+        "faceIndex": 0,
+        "faceName": "zexy_normal",
+        "traits":
+        [
+            {
+                "code": 52,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 40,
+        "maxLevel": 99,
+        "name": "ゼクシィ",
+        "nickname": "ダークナイト",
+        "note": "<raceId:3>\n<en:Zekushi,Magic Warrior,A ferocious warrior proud of her elven heritage.>\n<ch:泽克希,暗黑騎士,暗精靈的戰士>",
+        "profile": "ダークエルフの戦士。"
+    },
+    {
+        "id": 5,
+        "race": "Human",
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "sakuya_normal",
+        "classId": 5,
+        "equips":
+        [
+            121,
+            0,
+            0,
+            13,
+            170
+        ],
+        "faceIndex": 0,
+        "faceName": "sakuya_normal",
+        "traits":
+        [
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "initialLevel": 25,
+        "maxLevel": 99,
+        "name": "サクヤ",
+        "nickname": "くノ一",
+        "note": "<raceId:1>\n<en:Sakuya,Ninja,The formidable kunoichi met on an island in the East.>\n<ch:咲夜,女忍,東方島國的女忍>",
+        "profile": "東の島国のくノ一。"
+    },
+    {
+        "id": 6,
+        "race": "Human",
+        "battlerName": "",
+        "characterIndex": 1,
+        "characterName": "brave",
+        "classId": 6,
+        "equips":
+        [
+            63,
+            0,
+            0,
+            0,
+            104
+        ],
+        "faceIndex": 3,
+        "faceName": "Actor2",
+        "traits":
+        [],
+        "initialLevel": 50,
+        "maxLevel": 99,
+        "name": "シーナ",
+        "nickname": "僧侶",
+        "note": "<raceId:1>\n<en:Sela,Cleric,The female cleric in the party of the Hero Chiot.>\n<ch:茜娜,和尚>",
+        "profile": ""
+    },
+    {
+        "id": 7,
+        "race": "Human",
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "brave",
+        "classId": 2,
+        "equips":
+        [
+            55,
+            0,
+            0,
+            0,
+            103
+        ],
+        "faceIndex": 3,
+        "faceName": "Actor1",
+        "traits":
+        [],
+        "initialLevel": 50,
+        "maxLevel": 99,
+        "name": "ミリナ",
+        "nickname": "女戦士",
+        "note": "<raceId:1>\n<en:Mileena,Warrior,The female warrior in the party of the Hero Chiot.>\n<ch:米莉娜,女戰士>",
+        "profile": ""
+    },
+    {
+        "id": 8,
+        "race": "Human",
+        "battlerName": "",
+        "characterIndex": 2,
+        "characterName": "brave",
+        "classId": 3,
+        "equips":
+        [
+            96,
+            0,
+            0,
+            0,
+            104
+        ],
+        "faceIndex": 7,
+        "faceName": "Actor2",
+        "traits":
+        [],
+        "initialLevel": 50,
+        "maxLevel": 99,
+        "name": "グリス",
+        "nickname": "老魔導士",
+        "note": "<raceId:1>\n<en:Grace,Mage,The old female mage in the party of the Hero Chiot.>\n<ch:格力斯,老魔道士>",
+        "profile": ""
+    },
+   {
+        "id": 9,
+        "race": "Demon",
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "iris_normal",
+        "classId": 4,
+        "equips":
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "iris_normal",
+        "traits":
+        [
+            {
+                "code": 52,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "イリス",
+        "nickname": "魔王",
+        "note": "<raceId:2>\n<en:Iblis,Devil,She may look like a cute human girl but she's actually the Devil.>\n<ch:伊利丝,魔王,虽然看上去是个美貌少女、却是魔王。>",
+        "profile": "少女の見た目をしているが、魔王。"
+    }
+]

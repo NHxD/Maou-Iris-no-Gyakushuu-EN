@@ -105,12 +105,12 @@
 ; REMOVED
 ;@move_f f=iris@ikari_z body_op=z in=l t=300
 ; NEW
-@move_f f=iris@ikari_z body_op=z in=c t=300
+@zoom_f f=iris@ikari_z src=iris@ikari in=l t=300
 
 [Elise]「Of course, dummy. I never meant to lose. You're so goddamned annoying, that I feel like killing you now...」
 
 ; NEW
-@zoom_f f=iris@ikari f=iris@ikari_z out=l t=300
+@zoom_f f=iris@ikari src=iris@ikari_z out=l t=300
 
 @move_f f=sion@kanasimi in=r t=300
 ; REMOVED

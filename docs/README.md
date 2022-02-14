@@ -66,3 +66,4 @@ This mod improves the English localization of Dieselmine's RPG 《魔王イリ�
 - The 5th boss can only be resisted once, because Sonia is supposed to remain *pure* for one of her special H event afterward
 - If the names bother you too much, you can add your own translations to `www/js/plugins/ASH_CustomWords.js` (e.g., `{ key:"Chiot", value:"Shion" }`)
 - Some skill descriptions are misleading (e.g., granting immunity to some ailment when it actually does not) or even completely wrong (e.g., strikes a single enemy when it actually hits random enemies)
+- Game saves aren't compatible with the original game

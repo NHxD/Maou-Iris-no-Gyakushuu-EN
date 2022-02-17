@@ -10,6 +10,59 @@
 	"use strict"
 
 {
+	// WORKAROUND: (CHEAT) in case important items were mistakenly removed, allow the player to get them back by pressing a special key during any dialogue.
+	if (false)
+	{
+		// k key
+		Input.keyMapper[75] = "hotfix2"
+
+		//=============================================================================
+		// Window_Message
+		//=============================================================================
+
+		const Window_Message_updateInput = Window_Message.prototype.updateInput
+
+		Window_Message.prototype.updateInput = function()
+		{
+			if (this.isAnySubWindowActive())
+			{
+				return true
+			}
+
+			if (Input.isTriggered("hotfix2"))
+			{
+				$gameParty.ensureHasCoreEquipment()
+
+				return true
+			}
+
+			return Window_Message_updateInput.apply(this, arguments)
+		}
+
+		//=============================================================================
+		// Game_Party
+		//=============================================================================
+
+		Game_Party.prototype.ensureHasCoreEquipment = function()
+		{
+			this.coreItems().forEach(function(item, index, array) {
+				if (!this.hasItem(item, true))
+				{
+					this.gainItem(item, 1)
+				}
+			}, this)
+		}
+
+		Game_Party.prototype.coreItems = function()
+		{
+			return [
+				$dataArmors[4],	// black gown
+				$dataArmors[8],	// underwear
+				$dataArmors[10]	// naked
+			]
+		}
+	}
+
 	// log scenario loading.
 	if (false)
 	{

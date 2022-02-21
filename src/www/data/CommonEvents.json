@@ -5685,6 +5685,8 @@
   {
     "id": 361,
     "list": [
+      {"code":356,"indent":0,"parameters":["CommonSave cg08 true"]},
+      {"code":108,"indent":0,"parameters":["///////////////////////////////////////"]},
       {"code":356,"indent":0,"parameters":["ExpStatus イリス morale -10"]},
       {"code":356,"indent":0,"parameters":["ExpStatus イリス lewd 1"]},
       {"code":356,"indent":0,"parameters":["ExpStatus イリス last 人殺し other"]},
@@ -5704,6 +5706,8 @@
   {
     "id": 362,
     "list": [
+      {"code":356,"indent":0,"parameters":["CommonSave cg08 true"]},
+      {"code":108,"indent":0,"parameters":["///////////////////////////////////////"]},
       {"code":356,"indent":0,"parameters":["ExpStatus イリス morale -20"]},
       {"code":356,"indent":0,"parameters":["ExpStatus イリス lewd 5"]},
       {"code":356,"indent":0,"parameters":["ExpStatus イリス first 人殺し anal"]},

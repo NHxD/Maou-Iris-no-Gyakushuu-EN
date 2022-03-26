@@ -80,7 +80,116 @@
 		"ミリナ": "Human",
 		"グリス": "Human"
 	}
-	
+
+	// TODO: move this as notes in "Actors.json".
+	const argActorDisplayFilters =
+	{
+		VaginalSexActCount:		[ "iris", "sakuya", "sonia", "zexy" ],
+		AnalSexActCount:		[ "iris", "sakuya", "sonia", "zexy" ],
+		OralSexActCount:		[ "iris", "sonia", "zexy" ],
+		OppaiSexActCount:		[ "sakuya" ],
+		CunnilingusSexActCount:	[ "iris" ],
+		FingeringSexActCount:	[ "iris" ],
+		SumataSexActCount:		[ "iris", "sakuya" ],
+		ToySexActCount:			[ /*"iris"*/ ],
+		HandjobSexActCount:		[ "iris", "sakuya" ],
+
+		SleepingSexCount:		[ "iris" ],
+		DruggedSexCount:		[ "iris" ],
+		RestrainedSexCount:		[ "iris", "sakuya", "zexy" ],
+		ParalyzedSexCount:		[ "iris" ],
+		HypnotizedSexCount:		[ "iris", "sonia" ],
+		PregnantSexCount:		[ "iris", "sakuya", "sonia", "zexy" ],
+
+		DefeatedSexCount:		[ "iris", "sakuya", "sonia", "zexy" ],
+		ProstitutionSexCount:	[ "iris", "sakuya", "sonia", "zexy" ],
+		ProstitutionEarning:	[ "iris", "sakuya", "sonia", "zexy" ],
+		IncestSexCount:			[ "iris", "sakuya", "sonia" ],
+		Births:					[ "iris", "sakuya", "sonia", "zexy" ],
+
+		HumanSexActCount:		[ "iris", "sakuya", "sonia", "zexy" ],
+		OrcSexActCount:			[ "iris", "sonia" ],
+		AnimalSexActCount:		[ "iris", "sakuya" ],
+		DemonSexActCount:		[ "iris", "sakuya" ],
+		AngelSexActCount:		[ "iris", "sakuya", "sonia", "zexy" ],
+		TentacleSexActCount:	[ "iris", "sakuya", "zexy" ],
+		YoungerSexActCount:		[ "iris", "sakuya" ],
+		OlderSexActCount:		[ "iris", "sakuya" ],
+
+		HumanEjaculation:		[ "iris", "sakuya", "sonia", "zexy" ],
+		OrcEjaculation:			[ "iris", "sonia" ],
+		AnimalEjaculation:		[ "iris", "sakuya" ],
+		DemonEjaculation:		[ "iris", "sakuya" ],
+		AngelEjaculation:		[ "iris", "sakuya", "sonia", "zexy" ],
+		TentacleEjaculation:	[ "iris", "sakuya", "zexy" ],
+		YoungerEjaculation:		[ "iris", "sakuya" ],
+		OlderEjaculation:		[ "iris", "sakuya" ],
+
+		HumanSpermQuantity:		[ "iris", "sakuya", "sonia", "zexy" ],
+		OrcSpermQuantity:		[ "iris", "sonia" ],
+		AnimalSpermQuantity:	[ "iris", "sakuya" ],
+		DemonSpermQuantity:		[ "iris", "sakuya" ],
+		AngelSpermQuantity:		[ "iris", "sakuya", "sonia", "zexy" ],
+		TentacleSpermQuantity:	[ "iris", "sakuya", "zexy" ],
+		YoungerSpermQuantity:	[ "iris", "sakuya" ],
+		OlderSpermQuantity:		[ "iris", "sakuya" ],
+
+		HumanBirthCount:		[ "iris", "sakuya" ],
+		OrcBirthCount:			[ "iris", "sonia" ],
+		AnimalBirthCount:		[ "iris", "sakuya" ],
+		DemonBirthCount:		[ "iris", "sakuya" ],
+		AngelBirthCount:		[ "iris", "sakuya", "sonia", "zexy" ],
+		TentacleBirthCount:		[ "iris", "sakuya" ],
+		YoungerBirthCount:		[ "iris", "sakuya" ],
+		OlderBirthCount:		[ "iris", "sakuya" ],
+
+		VaginalEjaculationCount:[ "iris", "sakuya", "sonia", "zexy" ],
+		AnalEjaculationCount:	[ "iris", "sakuya", "sonia", "zexy" ],
+		OralEjaculationCount:	[ "iris", "sakuya", "sonia", "zexy" ],
+		OppaiEjaculationCount:	[ "iris", "sakuya" ],
+		FaceEjaculationCount:	[ "iris" ],
+		BodyEjaculationCount:	[ "iris", "sakuya" ],
+
+		VaginalSpermQuantity:	[ "iris", "sakuya", "sonia", "zexy" ],
+		AnalSpermQuantity:		[ "iris", "sakuya", "sonia", "zexy" ],
+		OralSpermQuantity:		[ "iris", "sakuya", "sonia", "zexy" ],
+		OppaiSpermQuantity:		[ "iris", "sakuya" ],
+		FaceSpermQuantity:		[ "iris" ],
+		BodySpermQuantity:		[ "iris", "sakuya" ],
+
+		VaginalFirstUser:		[ "iris", "sakuya", "sonia", "zexy" ],
+		AnalFirstUser:			[ "iris", "sakuya", "sonia", "zexy" ],
+		OralFirstUser:			[ "iris", "sakuya", "sonia", "zexy" ],
+		OppaiFirstUser:			[ "iris", "sakuya" ],
+
+		VaginalLastUser:		[ "iris", "sakuya", "sonia", "zexy" ],
+		AnalLastUser:			[ "iris", "sakuya", "sonia", "zexy" ],
+		OralLastUser:			[ "iris", "sakuya", "sonia", "zexy" ],
+		OppaiLastUser:			[ "iris", "sakuya" ],
+	}
+
+	for (const prop in argActorDisplayFilters)
+	{
+		for (let i = 0; i < argActorDisplayFilters[prop].length; ++i)
+		{
+			switch (argActorDisplayFilters[prop][i])
+			{
+				case "iris":
+					argActorDisplayFilters[prop][i] = "イリス"
+					break
+				case "sakuya":
+					argActorDisplayFilters[prop][i] = "サクヤ"
+					break
+				case "sonia":
+					argActorDisplayFilters[prop][i] = "ソニア"
+					break
+				case "zexy":
+					argActorDisplayFilters[prop][i] = "ゼクシィ"
+					break
+			}
+		}
+	}
+
 	const argImgSize = 300
 	const argWidth   = 380
 
@@ -292,14 +401,27 @@
 	Window_Status.prototype.drawEjaculationCountsBlock1 = function(x, y, width)
 	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawVaginalEjaculationCount(x, y + lineHeight * 1, width)
-		drawCount += this.drawAnalEjaculationCount(x, y + lineHeight * 2, width)
-		drawCount += this.drawOralEjaculationCount(x, y + lineHeight * 3, width)
-		drawCount += this.drawOppaiEjaculationCount(x, y + lineHeight * 4, width)
-		drawCount += this.drawFaceEjaculationCount(x, y + lineHeight * 5, width)
-		drawCount += this.drawBodyEjaculationCount(x, y + lineHeight * 6, width)
+		if (argActorDisplayFilters.VaginalEjaculationCount.contains(actorNameJA))
+			drawCount += this.drawVaginalEjaculationCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.AnalEjaculationCount.contains(actorNameJA))
+			drawCount += this.drawAnalEjaculationCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OralEjaculationCount.contains(actorNameJA))
+			drawCount += this.drawOralEjaculationCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OppaiEjaculationCount.contains(actorNameJA))
+			drawCount += this.drawOppaiEjaculationCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.FaceEjaculationCount.contains(actorNameJA))
+			drawCount += this.drawFaceEjaculationCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.BodyEjaculationCount.contains(actorNameJA))
+			drawCount += this.drawBodyEjaculationCount(x, y + lineHeight * ++row, width)
 
 		this.drawEjaculationCountPageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}
@@ -307,14 +429,27 @@
 	Window_Status.prototype.drawEjaculationCountsBlock2 = function(x, y, width)
  	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawVaginalSpermQuantity(x, y + lineHeight * 1, width)
-		drawCount += this.drawAnalSpermQuantity(x, y + lineHeight * 2, width)
-		drawCount += this.drawOralSpermQuantity(x, y + lineHeight * 3, width)
-		drawCount += this.drawOppaiSpermQuantity(x, y + lineHeight * 4, width)
-		drawCount += this.drawFaceSpermQuantity(x, y + lineHeight * 5, width)
-		drawCount += this.drawBodySpermQuantity(x, y + lineHeight * 6, width)
+		if (argActorDisplayFilters.VaginalSpermQuantity.contains(actorNameJA))
+			drawCount += this.drawVaginalSpermQuantity(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.AnalSpermQuantity.contains(actorNameJA))
+			drawCount += this.drawAnalSpermQuantity(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OralSpermQuantity.contains(actorNameJA))
+			drawCount += this.drawOralSpermQuantity(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OppaiSpermQuantity.contains(actorNameJA))
+			drawCount += this.drawOppaiSpermQuantity(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.FaceSpermQuantity.contains(actorNameJA))
+			drawCount += this.drawFaceSpermQuantity(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.BodySpermQuantity.contains(actorNameJA))
+			drawCount += this.drawBodySpermQuantity(x, y + lineHeight * ++row, width)
 
 		this.drawSpermQuantityPageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}
@@ -404,18 +539,36 @@
 	Window_Status.prototype.drawSexActCountsBlock1 = function(x, y, width)
 	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawVaginalSexActCount(x, y + lineHeight * 1, width)
-		drawCount += this.drawAnalSexActCount(x, y + lineHeight * 2, width)
-		drawCount += this.drawOralSexActCount(x, y + lineHeight * 3, width)
-		drawCount += this.drawOppaiSexActCount(x, y + lineHeight * 4, width)
-		drawCount += this.drawCunnilingusSexActCount(x, y + lineHeight * 5, width)
-		drawCount += this.drawFingeringSexActCount(x, y + lineHeight * 6, width)
-		drawCount += this.drawSumataSexActCount(x, y + lineHeight * 7, width)
-		drawCount += this.drawToySexActCount(x, y + lineHeight * 8, width)
-		// no room for it...
-		//drawCount += this.drawHandjobSexActCount(x, y + lineHeight * 9, width)
+		if (argActorDisplayFilters.VaginalSexActCount.contains(actorNameJA))
+			drawCount += this.drawVaginalSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.AnalSexActCount.contains(actorNameJA))
+			drawCount += this.drawAnalSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OralSexActCount.contains(actorNameJA))
+			drawCount += this.drawOralSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OppaiSexActCount.contains(actorNameJA))
+			drawCount += this.drawOppaiSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.CunnilingusSexActCount.contains(actorNameJA))
+			drawCount += this.drawCunnilingusSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.FingeringSexActCount.contains(actorNameJA))
+			drawCount += this.drawFingeringSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.SumataSexActCount.contains(actorNameJA))
+			drawCount += this.drawSumataSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.ToySexActCount.contains(actorNameJA))
+			drawCount += this.drawToySexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.HandjobSexActCount.contains(actorNameJA))
+			drawCount += this.drawHandjobSexActCount(x, y + lineHeight * ++row, width)
 
 		this.drawSexActCountsPageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}
@@ -576,28 +729,55 @@
 	Window_Status.prototype.drawStateSexActCountsBlock1 = function(x, y, width)
  	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawSleepingSexCount(x, y + lineHeight * 1, width)
-		drawCount += this.drawDruggedSexCount(x, y + lineHeight * 2, width)
-		drawCount += this.drawParalyzedSexCount(x, y + lineHeight * 3, width)
-		drawCount += this.drawHypnotizedSexCount(x, y + lineHeight * 4, width)
-		drawCount += this.drawRestrainedSexCount(x, y + lineHeight * 5, width)
-		drawCount += this.drawPregnantSexCount(x, y + lineHeight * 6, width)
+		if (argActorDisplayFilters.SleepingSexCount.contains(actorNameJA))
+			drawCount += this.drawSleepingSexCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.DruggedSexCount.contains(actorNameJA))
+			drawCount += this.drawDruggedSexCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.ParalyzedSexCount.contains(actorNameJA))
+			drawCount += this.drawParalyzedSexCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.HypnotizedSexCount.contains(actorNameJA))
+			drawCount += this.drawHypnotizedSexCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.RestrainedSexCount.contains(actorNameJA))
+			drawCount += this.drawRestrainedSexCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.PregnantSexCount.contains(actorNameJA))
+			drawCount += this.drawPregnantSexCount(x, y + lineHeight * ++row, width)
+
 		this.drawSexStateCountsPageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}
 
 	Window_Status.prototype.drawStateSexActCountsBlock2 = function(x, y, width)
  	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawDefeatedSexCount(x, y + lineHeight * 1, width)
-		drawCount += this.drawProstitutionSexCount(x, y + lineHeight * 2, width)
-		drawCount += this.drawIncestSexCount(x, y + lineHeight * 3, width)
+		if (argActorDisplayFilters.DefeatedSexCount.contains(actorNameJA))
+			drawCount += this.drawDefeatedSexCount(x, y + lineHeight * ++row, width)
 
-		drawCount += this.drawProstitutionEarning(x, y + lineHeight * 5, width)
-		drawCount += this.drawBirths(x, y + lineHeight * 6, width)
+		if (argActorDisplayFilters.ProstitutionSexCount.contains(actorNameJA))
+			drawCount += this.drawProstitutionSexCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.IncestSexCount.contains(actorNameJA))
+			drawCount += this.drawIncestSexCount(x, y + lineHeight * ++row, width)
+
+		if (row > 0)
+			++row
+
+		if (argActorDisplayFilters.ProstitutionEarning.contains(actorNameJA))
+			drawCount += this.drawProstitutionEarning(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.Births.contains(actorNameJA))
+			drawCount += this.drawBirths(x, y + lineHeight * ++row, width)
 
 		this.drawSexCircumstanceCountsPageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}
@@ -605,16 +785,33 @@
 	Window_Status.prototype.drawSexActCountsByRaceBlock1 = function(x, y, width)
 	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawHumanSexActCount(x, y + lineHeight * 1, width)
-		drawCount += this.drawOrcSexActCount(x, y + lineHeight * 2, width)
-		drawCount += this.drawAnimalSexActCount(x, y + lineHeight * 3, width)
-		drawCount += this.drawDemonSexActCount(x, y + lineHeight * 4, width)
-		drawCount += this.drawAngelSexActCount(x, y + lineHeight * 5, width)
-		drawCount += this.drawTentacleSexActCount(x, y + lineHeight * 6, width)
-		drawCount += this.drawYoungerSexActCount(x, y + lineHeight * 7, width)
-		drawCount += this.drawOlderSexActCount(x, y + lineHeight * 8, width)
+		if (argActorDisplayFilters.HumanSexActCount.contains(actorNameJA))
+			drawCount += this.drawHumanSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OrcSexActCount.contains(actorNameJA))
+			drawCount += this.drawOrcSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.AnimalSexActCount.contains(actorNameJA))
+			drawCount += this.drawAnimalSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.DemonSexActCount.contains(actorNameJA))
+			drawCount += this.drawDemonSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.AngelSexActCount.contains(actorNameJA))
+			drawCount += this.drawAngelSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.TentacleSexActCount.contains(actorNameJA))
+			drawCount += this.drawTentacleSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.YoungerSexActCount.contains(actorNameJA))
+			drawCount += this.drawYoungerSexActCount(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OlderSexActCount.contains(actorNameJA))
+			drawCount += this.drawOlderSexActCount(x, y + lineHeight * ++row, width)
 
 		this.drawSexActCountsByRacePageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}
@@ -683,12 +880,21 @@
 	Window_Status.prototype.drawUserBlock1 = function(x, y, width)
 	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawVaginalFirstUser(x, y + lineHeight * 1, width)
-		drawCount += this.drawAnalFirstUser(x, y + lineHeight * 2, width)
-		drawCount += this.drawOralFirstUser(x, y + lineHeight * 3, width)
-		drawCount += this.drawOppaiFirstUser(x, y + lineHeight * 4, width)
+		if (argActorDisplayFilters.VaginalFirstUser.contains(actorNameJA))
+			drawCount += this.drawVaginalFirstUser(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.AnalFirstUser.contains(actorNameJA))
+			drawCount += this.drawAnalFirstUser(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OralFirstUser.contains(actorNameJA))
+			drawCount += this.drawOralFirstUser(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OppaiFirstUser.contains(actorNameJA))
+			drawCount += this.drawOppaiFirstUser(x, y + lineHeight * ++row, width)
 
 		this.drawFirstUserPageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}
@@ -696,12 +902,21 @@
 	Window_Status.prototype.drawUserBlock2 = function(x, y, width)
  	{
 		const lineHeight = this.lineHeight()
+		const actorNameJA = this._actor.name(true)
 		let drawCount = 0
+		let row = 0
 
-		drawCount += this.drawVaginalLastUser(x, y + lineHeight * 1, width)
-		drawCount += this.drawAnalLastUser(x, y + lineHeight * 2, width)
-		drawCount += this.drawOralLastUser(x, y + lineHeight * 3, width)
-		drawCount += this.drawOppaiLastUser(x, y + lineHeight * 4, width)
+		if (argActorDisplayFilters.VaginalLastUser.contains(actorNameJA))
+			drawCount += this.drawVaginalLastUser(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.AnalLastUser.contains(actorNameJA))
+			drawCount += this.drawAnalLastUser(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OralLastUser.contains(actorNameJA))
+			drawCount += this.drawOralLastUser(x, y + lineHeight * ++row, width)
+
+		if (argActorDisplayFilters.OppaiLastUser.contains(actorNameJA))
+			drawCount += this.drawOppaiLastUser(x, y + lineHeight * ++row, width)
 
 		this.drawLastUserPageHeader(drawCount === 0, x, y + lineHeight * 0, width)
 	}

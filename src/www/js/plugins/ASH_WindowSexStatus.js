@@ -1213,7 +1213,7 @@
 
 	Window_Status.prototype.drawFirst = function(x, y, width)
 	{
-		const name = this._actor._mFirst
+		const name = this._actor._mVaginalFirstUser
 
 		this.changeTextColor(this.systemColor())
 		this.drawText(TS_Function.getLanguage(!name ? "SecretSexLabel" : "FirstSexPartner"), x, y, width)
@@ -1226,7 +1226,7 @@
 	{
 		width = width || argWidth
 
-		let name = this._actor._mFirst
+		let name = this._actor._mVaginalFirstUser
 
 		if (!name)
 		{
@@ -1242,7 +1242,7 @@
 
 		this.drawText(name, x, y, width, "right")
 
-		return !this._actor._mFirst ? 0 : 1
+		return !this._actor._mVaginalFirstUser ? 0 : 1
 	}
 	
 	Window_Status.prototype.drawLastPartner = function(x, y, width)
@@ -1286,7 +1286,7 @@
 
 	Window_Status.prototype.drawFinish = function(x, y, width)
 	{
-		const val = this._actor._mFinish
+		const val = this._actor._mVaginalEjaculationCount + this._actor._mAnalEjaculationCount
 
 		return this.drawSexActCount(val, !val, "EjaculationCount", x, y, width, TS_Function.getLanguage("CountValueFormat"))
 	}

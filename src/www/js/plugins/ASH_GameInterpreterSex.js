@@ -54,7 +54,8 @@
 	{
 		if (command === "ExpStatus")
 		{
-			this.commandExpStatus(command, args)
+			if (this.commandExpStatus(command, args))
+				return
 		}
 
 		Game_Interpreter_pluginCommand.call(this, command, args)
@@ -67,7 +68,7 @@
 		if (!args || args.length < 1)
 		{
 			console.log("Missing argument " + "<actor_id>")
-			return
+			return false
 		}
 
 		const actor = $gameActors.actor(argActorID[args[0]])
@@ -76,13 +77,13 @@
 		{
 			console.log("Can't find actor with ID: " + args[0])
 			//console.dir($gameActors)
-			return
+			return false
 		}
 		else if (argActorName.indexOf(actor.name(true)) === -1)
 		{
 			console.log("Actor name not registered for sex: " + actor.name(true))
 			//console.dir($gameActors)
-			return
+			return false
 		}
 		
 		actor.ensureActorHasSexAttributes()
@@ -147,7 +148,10 @@
 
 			default:
 				console.warn("unrecognized param " + args[1] + " in ", command, args)
+				return false
 		}
+
+		return true
 	}
 
 	Game_Interpreter.prototype.commandSexFinish = function(actor, command, args)

@@ -1085,6 +1085,12 @@
 	
 	Window_Status.prototype.drawLewd = function(x, y, width)
 	{
+		if (isNaN(this._actor._mLewd) || !isFinite(this._actor._mLewd))
+		{
+			// bugfix: in case this property was previously corrupted.
+			this._actor._mLewd = 0
+		}
+
 		const val = this._actor._mLewd
 		const val_max = 100
 		const color1 = this.lewdGaugeColor1()

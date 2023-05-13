@@ -37,7 +37,7 @@
 
 		this._raceId = (actor.hasOwnProperty("note")
 			&& actor.note
-			&& actor.meta.hasOwnProperty("raceId")) ? actor.meta.raceId : 0
+			&& actor.meta.hasOwnProperty("raceId")) ? Number(actor.meta.raceId) : 0
 	}
 
 	Game_Actor.prototype.raceName = function()

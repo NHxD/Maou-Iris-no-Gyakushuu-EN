@@ -187,7 +187,7 @@
 	ConfigManager.showDimOverlay = true
 	ConfigManager.allowContinueAfterDefeat = false
 	ConfigManager.recoverAllOnContinue = false
-	ConfigManager.recoverAllOnLevelUp = true
+	ConfigManager.recoverAllOnLevelUp = false
 	ConfigManager.playBalloonSE = false
 
 	const ConfigManager_applyData = ConfigManager.applyData

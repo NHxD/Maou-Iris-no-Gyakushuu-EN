@@ -45,7 +45,7 @@
 	{
 		if (typeof $gameMessage.fileName === "function")
 		{
-			return $gameMessage.fileName()
+			return $gameMap.mapId() + ':' + $gameMessage.fileName()
 		}
 		else
 		{

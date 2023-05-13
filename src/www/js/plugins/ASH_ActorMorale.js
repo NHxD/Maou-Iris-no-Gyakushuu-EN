@@ -101,7 +101,7 @@
 	{
 		$gameParty.allMembers().forEach(function(actor)
 		{
-			actor.setMorale((actor.morale() + this.moraleBonusOnWin()).clamp(0, 100))
+			actor.setMorale(actor.morale() + this.moraleBonusOnWin())
 		}, this)
 
 		Game_System_onBattleWin.apply(this, arguments)
@@ -115,7 +115,7 @@
 	{
 		$gameParty.allMembers().forEach(function(actor)
 		{
-			actor.setMorale((actor.morale() - this.moralePenaltyOnEscape()).clamp(0, 100))
+			actor.setMorale(actor.morale() - this.moralePenaltyOnEscape())
 		}, this)
 
 		Game_System_onBattleEscape.apply(this, arguments)
@@ -154,10 +154,17 @@
 	{
 	    width = width || 186
 
+		if (isNaN(actor.morale()) || !isFinite(actor.morale()))
+		{
+			// bugfix: in case this property was previously corrupted.
+			actor.setMorale(actor.maxMorale())
+		}
+
+		const moraleRate = actor.moraleRate()
 	    const color1 = this.tpGaugeColor1()
 	    const color2 = this.tpGaugeColor2()
 
-	    this.drawGauge(x, y, width, actor.moraleRate(), color1, color2)
+	    this.drawGauge(x, y, width, Math.max(0, moraleRate), color1, color2)
 	    this.changeTextColor(this.systemColor())
 	    this.drawText(TS_Function.getLanguage("MoralePoints"), x, y, 44)
 	    this.drawCurrentAndMax(actor.morale(), 100, x, y, width,

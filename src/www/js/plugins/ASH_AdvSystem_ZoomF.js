@@ -20,7 +20,7 @@
 	{
 		const c_macro = []
 		
-		if (macro.indexOf("@zoom_f") !== -1)
+		if (macro.indexOf("@zoom_f ") !== -1)
 		{
 			const argument = this.makeArg(macro, { f:"", src:"", t:300 },
 				[ "f", "src", "t", "in", "out", "body" ])
@@ -79,8 +79,10 @@
 
 			return c_macro
 		}
-
-		return ADV_System_macroChange.apply(this, arguments)
+		else
+		{
+			return ADV_System_macroChange.apply(this, arguments)
+		}
 	}
 }
 

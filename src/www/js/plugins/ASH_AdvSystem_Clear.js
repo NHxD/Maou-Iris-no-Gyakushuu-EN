@@ -32,8 +32,10 @@
 
 			return c_macro
 		}
-
-		return ADV_System_macroChange.apply(this, arguments)
+		else
+		{
+			return ADV_System_macroChange.apply(this, arguments)
+		}
 	}
 }
 

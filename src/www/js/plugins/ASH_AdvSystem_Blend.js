@@ -59,8 +59,10 @@
 				this.mWaitMode = "route"
 			}
 		}
-
-		ADV_System_macroRun.apply(this, arguments)
+		else
+		{
+			ADV_System_macroRun.apply(this, arguments)
+		}
 	}
 }
 

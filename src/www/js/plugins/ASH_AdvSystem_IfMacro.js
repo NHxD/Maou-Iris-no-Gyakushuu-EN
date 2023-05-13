@@ -23,7 +23,7 @@
 	{
 		const c_macro = []
 		
-		if (macro.indexOf('@if') != -1)
+		if (macro.indexOf("@if ") !== -1)
 		{
 			const argument = this.makeArg(macro, {})
 
@@ -67,7 +67,7 @@
 					this.jumpLabel(r_data[1])
 				}
 				*/
-				if (r_data[0] == "macro")
+				if (r_data[0] === "macro")
 				{
 					const macros = r_data[1].split('|')
 

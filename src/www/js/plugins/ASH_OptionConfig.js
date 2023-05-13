@@ -188,6 +188,7 @@
 	ConfigManager.allowContinueAfterDefeat = false
 	ConfigManager.recoverAllOnContinue = false
 	ConfigManager.recoverAllOnLevelUp = true
+	ConfigManager.playBalloonSE = false
 
 	const ConfigManager_applyData = ConfigManager.applyData
 
@@ -249,6 +250,11 @@
 		{
 			this.recoverAllOnLevelUp = this.readFlag(config, "recoverAllOnLevelUp")
 		}
+
+		if (config.hasOwnProperty("playBalloonSE"))
+		{
+			this.playBalloonSE = this.readFlag(config, "playBalloonSE")
+		}
 	}
 
 	const ConfigManager_makeData = ConfigManager.makeData
@@ -268,6 +274,7 @@
 		config.allowContinueAfterDefeat = this.allowContinueAfterDefeat
 		config.recoverAllOnContinue = this.recoverAllOnContinue
 		config.recoverAllOnLevelUp = this.recoverAllOnLevelUp
+		config.playBalloonSE = this.playBalloonSE
 
 		return config
 	}
@@ -293,6 +300,7 @@
 		this.addCommand(TS_Function.getLanguage("AllowContinueAfterDefeat"), "allowContinueAfterDefeat", this.isAllowContinueAfterDefeatEnabled())
 		this.addCommand(TS_Function.getLanguage("RecoverAllOnContinue"), "recoverAllOnContinue", this.isRecoverAllOnContinueEnabled())
 		this.addCommand(TS_Function.getLanguage("RecoverAllOnLevelUp"), "recoverAllOnLevelUp", this.isRecoverAllOnLevelUpEnabled())
+		this.addCommand(TS_Function.getLanguage("PlayBalloonSE"), "playBalloonSE", true)
 	}
 
 	Window_Options.prototype.isShowAdultContentEnabled = function()
@@ -613,7 +621,7 @@
 
 		this._sortedList = []
 
-		this.moveCommandToGroup("*display", [ "langSelect", "stretchMode", "fitMode", "startUpFullScreen", "showBlackFrames", "showStandZoomTransitions", "coloredItemNames", "showAdultContent", "showMorale", "useOriginalNames" ])
+		this.moveCommandToGroup("*display", [ "langSelect", "stretchMode", "fitMode", "startUpFullScreen", "showBlackFrames", "showStandZoomTransitions", "coloredItemNames", "showAdultContent", "showMorale", "useOriginalNames", "playBalloonSE" ])
 		this.moveCommandToGroup("*audio", [ "bgmVolume", "bgsVolume", "meVolume", "seVolume" ])
 		this.moveCommandToGroup("*system", [ "precacheImages" ])
 		this.moveCommandToGroup("*game", [ "alwaysDash", "commandRemember", "startGameNaked", "showDimOverlay", "useEndureSystem", "allowContinueAfterDefeat", "recoverAllOnContinue", "recoverAllOnLevelUp" ])	//"autoAdvanceMessage"

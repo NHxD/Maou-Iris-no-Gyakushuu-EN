@@ -366,7 +366,13 @@
 			"Recover All On Level Up",
 			"Recover All On Level Up",	// TODO
 		],
-		
+
+		PlayBalloonSE : [
+			"Play Balloon SE",	// TODO
+			"Play Balloon SE",
+			"Play Balloon SE",	// TODO
+		],
+
 		// --------------------------------------
 		// Status/Elemental Resistance menu
 		// --------------------------------------

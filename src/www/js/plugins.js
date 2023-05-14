@@ -95,7 +95,7 @@ var $plugins =
 {"name":"ASH_SaveFileDelete","status":true,"description":"","parameters.":{}},
 {"name":"ASH_Debug","status":true,"description":"","parameters":{}},
 {"name":"StartUpFullScreen","status":true,"description":"フルスクリーンで起動プラグイン","parameters":{"シャットダウン":"シャットダウン","フルスクリーンで起動":"フルスクリーンで起動"}},
-{"name":"ASH_AdvSystem_BalloonSe","status":true,"description":""}},
-{"name":"ASH_GameInterpreter_Balloon","status":true,"description":""}},
-{"name":"ASH_AdvSystem_Bgm","status":true,"description":""}},
+{"name":"ASH_AdvSystem_BalloonSe","status":true,"description":"","parameters":{}},
+{"name":"ASH_GameInterpreter_Balloon","status":true,"description":"","parameters":{}},
+{"name":"ASH_AdvSystem_Bgm","status":true,"description":"","parameters":{}},
 ];

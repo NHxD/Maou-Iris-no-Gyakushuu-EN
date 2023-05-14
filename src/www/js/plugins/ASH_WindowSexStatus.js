@@ -1066,6 +1066,12 @@
 
 	Window_Status.prototype.drawDevelop = function(x, y, width)
 	{
+		if (isNaN(this._actor._mDevelop) || !isFinite(this._actor._mDevelop))
+		{
+			// bugfix: in case this property was previously corrupted.
+			this._actor._mDevelop = 0
+		}
+
 		const val = this._actor._mDevelop
 		const val_max = 100
 		const color1 = this.developGaugeColor1()

@@ -65,6 +65,9 @@
 
 [Orc A]「Wow, she's a beauty, isn't she?」
 
+; NEW
+@huki id=13 b=3
+
 [Orc B]「Red Orc, she's a first-class girl!」
 
 @huki id=9 b=1
@@ -125,6 +128,9 @@
 @fb id=13 dir=for
 
 [Orc B]「Red Orc, let's fuck this girl already!」
+
+; NEW
+@huki id=9 b=5
 
 [Red Orc]「Shut up! But my patience is wearing thin too...」
 
@@ -203,9 +209,14 @@
 
 [Elise]「An insolent orc like you won't cut it to become my minion.」
 
+@zoom_f f=iris@kougeki2_z src=iris@kougeki2 in=r t=300
+
 [Elise]「It's roasting time, pig!」
 
-@move_f f=iris@kougeki2 out=r t=150
+; NEW
+@move_f f=iris@kougeki2_z out=r t=150
+; REMOVED
+;@move_f f=iris@kougeki2 out=r t=150
 
 ; NEW
 @step_anime id=9 type=off

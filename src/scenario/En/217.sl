@@ -170,6 +170,9 @@
 @huki id=6 b=6
 @wait t=1200
 
+; NEW MOVED HERE
+@move_f f=iris@kuyasii out=r t=300
+
 @route route=right:2
 @move_speed spd=3
 @move_f f=iris@kuyasii in=r t=300
@@ -177,7 +180,8 @@
 @huki id=6 b=8
 [Elise]「Weirdo.」
 
-@move_f f=iris@kuyasii out=r t=300
+; REMOVED
+;@move_f f=iris@kuyasii out=r t=300
 @move_f f=sion@tere out=l t=300
 
 ;; Time elapses with ending or darkening

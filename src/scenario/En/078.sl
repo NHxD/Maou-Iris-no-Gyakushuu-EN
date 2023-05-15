@@ -62,6 +62,10 @@
 
 [Elise]「Only the theory? I already feel upset about our future...」
 
+; NEW MOVED
+@move_f f=iris@kanasimi out=r t=300
+@move_f f=sakuya@bisyo out=l t=300
+
 ; NEW
 @dir dir=u wt=0
 @dir id=9 dir=u wt=0
@@ -69,9 +73,6 @@
 ; NEW
 
 [Receptionist]「So let our master decide if you can be hired... Please follow me. This way.」
-
-@move_f f=iris@kanasimi out=r t=300
-@move_f f=sakuya@bisyo out=l t=300
 
 ; NEW
 ;@change id=9 f=null num=0

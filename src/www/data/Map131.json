@@ -42,6 +42,8 @@ null,
             },
             "list":
             [
+                {"code":108,"indent":0,"parameters":["*** NEW: Wait a bit ***"]},
+                {"code":230,"indent":0,"parameters":[30]},
                 {"code":111,"indent":0,"parameters":[12,"ConfigManager.showAdultContent"]},
                 {"code":356,"indent":1,"parameters":["AdvLoad cg14"]},
                 {"code":0,"indent":1,"parameters":[]},

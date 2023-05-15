@@ -8,13 +8,25 @@
 ;[???]「Nooooo!! Stop! Stop it! Help me! Someone... Please come and help me! Anybody!」
 [???]「No!!! Stop it! Help me!\nSomebody help me please...!!!」
 
+; NEW
+@move_f f=sonia@odoroki out=l t=300
+
 ;; bandit, appeared
+
+; NEW
+@huki id=6 b=1
 
 [Bandit A]「Hey, stop resisting already!」
 
+; NEW
+@huki id=7 b=3
+
 [Bandit B]「Hehehe, it's useless to scream!」
 
-@bs f=sonia@kanasimi
+; NEW
+@move_f f=sonia@kanasimi in=l t=300
+; REMOVED
+;@bs f=sonia@kanasimi
 
 [???]「No! Stop it! Let me go! No!」
 ;[???]「Ahhh... Stop it! No! Noooo!」
@@ -30,6 +42,11 @@
 [Elise] (Well, this has nothing to do with me.)
 
 [Elise] (I'm already busy searching for that stupid Hero. I must reach the Royal Capital before he vanishes on me again.)
+
+; NEW
+@move_f f=iris@bisyo out=r t=300
+; NEW
+@move_f f=sonia@kanasimi out=l t=300
 
 ;; Iris tries to move forward, crossing Sonia
 @route route=l:3 wt=0
@@ -56,7 +73,10 @@
 @dir dir=up
 @huki id=5 b=6
 
-@bs f=iris@ikari
+; NEW
+@move_f f=iris@ikari in=r t=300
+; REMOVED
+;@bs f=iris@ikari
 
 ;[Elise]「... I don't have time for these trifles. Try hard on your own.」
 [Elise]「... Sorry lady, but I don't have time to spare on you. You'll have to rely on your own strength.」

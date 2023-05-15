@@ -22,32 +22,36 @@
 [Chiot]「Devil...」
 
 ; NEW
-@bs f=iris@reisyo body_op=yabure out=r t=300
+@move_f f=iris@reisyo body_op=yabure out=r t=300
 ; NEW
-@bs f=sion@kanasimi out=l t=300
+@move_f f=sion@kanasimi out=l t=300
 
 ; NEW
-@wait t=50
+@wait t=600
 
 ; TODO?
 ;@move_f f=iris@reisyo out=4 t=300 body_op=yabure
 ; REMOVED
 ;@fb dir=back
 ; NEW
-@fb dir=back spd=2
+@fb dir=back wt=1
+; NEW
+@wait t=600
+; NEW
+;@move_speed
 ;@wait t=500
 ;@move_f f=iris@reisyo_hoho in=4 t=300
 ; REMOVED
 ;@bs f=iris@reisyo_hoho body_op=yabure
 ; NEW
-@bs f=iris@reisyo_hoho body_op=yabure in=r t=300
+@move_f f=iris@reisyo_hoho body_op=yabure in=r t=300
 
 [Elise]「I guess it's finally time for me to die. I wanted to say some decent last words...but I can't think of anything.」
 
 ; REMOVED
 ;@bs f=sion@tuujou
 ; NEW
-@bs f=sion@tuujou in=l t=300
+@move_f f=sion@tuujou in=l t=300
 
 [Chiot]「Devil Iblis... I...」
 

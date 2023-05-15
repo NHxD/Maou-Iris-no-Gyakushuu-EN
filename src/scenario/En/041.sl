@@ -25,6 +25,9 @@
 
 [Elise]「Well... As the Trash Devil, it is my responsibility to dispose of garbage like you. ♥」
 
+; NEW MOVED
+@zoom_f f=iris@bisyo src=iris@reisyo_z out=r t=300
+
 @huki id=9 b=6
 
 [Red Orc]「No, no, my Devil. It was only a joke! Ahah ahah!」
@@ -33,8 +36,6 @@
 
 ; REMOVED
 ;@bs f=iris@bisyo
-; NEW
-@zoom_f f=iris@bisyo src=iris@reisyo_z out=r t=300
 
 [Elise]「So pathetic.」
 

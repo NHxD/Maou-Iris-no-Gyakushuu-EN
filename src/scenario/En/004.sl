@@ -26,7 +26,7 @@
 @route id=10 route=l,u wt=0
 
 ; NEW
-@huki id=7 b=4
+@huki id=7 b=1
 
 [Chiot]「Thank you. Oh― Aaah... Mileena, Sela. You really don't have to hug me so tight...」
 

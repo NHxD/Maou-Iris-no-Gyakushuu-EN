@@ -16,7 +16,10 @@
 
 @move_f f=sion@ikari1 out=l t=300
 
-@bs f=iris@reisyo
+; REMOVED
+;@bs f=iris@reisyo
+; NEW
+@move_f f=iris@bisyo_hoho out=r t=300
 
 ; NOTE: they probably didn't move her forward because her balloons would then obscure sion's sprite.
 ; But, without it, it's too jarring to have her threaten to deal the final blow while standing so far away from him.
@@ -30,6 +33,9 @@
 @dir dir=l
 ; NEW
 @move_speed
+
+; NEW
+@move_f f=iris@reisyo in=r t=300
 
 [Elise]「Well then, here comes the final blow, Hero Chiot... Prepare yourself!」
 

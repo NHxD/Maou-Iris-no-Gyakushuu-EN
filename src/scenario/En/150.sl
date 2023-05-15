@@ -11,6 +11,9 @@
 
 [Elise]「You fragile little things. Turns out that holy knights are just small fry too. Well, let's move on to the main course...」
 
+; NEW
+@move_f f=iris@kuyasii out=r t=300
+
 @map_scroll dir=u dis=4 spd=5 wt=0
 @route route=u:3
 @wait t=1000
@@ -21,7 +24,10 @@
 
 @map_scroll dir=d dis=2 spd=5 wt=0
 @route id=21 route=d:3
-@bs f=iris@bisyo
+; NEW
+@move_f f=iris@bisyo in=r t=300
+; REMOVED
+;@bs f=iris@bisyo
 
 [Elise]「This voice... Ohohoho～♪ I saved you for last! I made sure that you would see the day that I would throw the world into absolute chaos!」
 

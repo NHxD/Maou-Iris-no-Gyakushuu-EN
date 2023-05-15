@@ -95,6 +95,9 @@
 @bgm
 @bs f=iris@odoroki op2=hatena
 
+; NEW
+@huki b=2
+
 [Iblis]「What?」
 
 @dir id=12 dir=u wt=0

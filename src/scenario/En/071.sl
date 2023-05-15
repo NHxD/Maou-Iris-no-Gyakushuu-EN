@@ -3,6 +3,10 @@
 ;; ● Royal Route
 
 @bgm f=battle6
+
+; NEW: give it some time to preload...
+@wait t=60
+
 @anime id=8 num=302 wt=0
 @anime id=9 num=302 wt=0
 @anime id=10 num=302 wt=0
@@ -51,6 +55,9 @@
 
 [Elise] (Ehh...what the―)
 
+; NEW
+@huki id=12 b=2 wt=0
+
 ; REMOVED
 ;@bs f=iris@odoroki
 ; NEW
@@ -63,7 +70,13 @@
 @dir dir=right wt=0
 @huki b=2 wt=0
 
+; NEW
+@huki id=15 b=2 wt=0
+
 [Elise]「Who are you?!」
+
+; NEW
+@huki id=14 b=2 wt=0
 
 [???]「Come on! Quick!」
 
@@ -73,5 +86,8 @@
 [Elise]「Well, there's no time for hesitation...」
 
 @move_f f=iris@kanasimi out=r t=300
+
+; NEW
+@huki id=12 b=2 wt=0
 
 ;; Move map after dark

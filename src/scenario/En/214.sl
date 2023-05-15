@@ -34,6 +34,9 @@
 
 @bgm f=Town1
 
+; NEW
+@huki id=3 b=10 wt=1
+
 @huki id=3 b=8
 [Elise]「Hmm... Hmm......」
 

@@ -21,6 +21,10 @@
 [Elise]「Hah. Okay...」
 
 [Maid]「All right then, your task for today is to clean this floor of the mansion.」
+
+; NEW
+@huki id=9 b=6
+
 [Maid]「A―Ah right, you don't know how... Well, I'll teach you... *sigh*」
 
 @move_f f=iris@kanasimi out=r t=300

@@ -21,8 +21,14 @@
 
 [Elise]「Well, finally... I wondered when he would shut up. Still, he was much tougher than what I anticipated.」
 
+; NEW
+@move_f f=iris@kuyasii_hoho out=r t=300
+
 @fb dir=for num=7
-@bs f=iris@bisyo
+; REMOVED
+;@bs f=iris@bisyo
+; NEW
+@move_f f=iris@bisyo in=r t=300
 
 [Elise]「Well, I'd like to know which god that priest was trying to summon...」
 

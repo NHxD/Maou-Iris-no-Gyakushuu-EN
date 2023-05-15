@@ -65,6 +65,9 @@
 ;; The magic square is shattered with the sound of glass shattering.
 @anime id=10 num=213
 
+; NEW
+@huki id=10 b=1 se=0
+
 [Lannan]「What?!」
 
 @bs f=iris@reisyo
@@ -82,6 +85,9 @@
 [Lannan]「Oh but *I* won't fight with you. Come forth...」
 
 [Lannan]『\$SKILL[Angels!]』
+
+; NEW
+@huki b=1 se=0
 
 @bs f=iris@odoroki op2=kettei
 

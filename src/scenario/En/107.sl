@@ -9,6 +9,9 @@
 
 ;; gatekeeper surprise
 
+; NEW
+@huki id=16 b=2
+
 [Guard]「Princess... Your Majesty?!」
 
 @move_f f=iris@bisyo in=r t=300

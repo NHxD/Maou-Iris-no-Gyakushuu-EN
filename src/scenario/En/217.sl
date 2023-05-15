@@ -75,7 +75,7 @@
 @bs f=iris@kuyasii op2=konwaku
 
 @huki id=6 b=7
-[Elise]「Noticed or not... Why the heck are you following me?!」
+[Elise]「Hard to miss... Why the heck are you following me?!」
 
 @bs f=sion@reisei
 

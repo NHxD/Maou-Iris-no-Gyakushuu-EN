@@ -286,7 +286,7 @@
 
 @bs f=iris@kanasimi
 
-[Elise]「Well, quite a few things happened sinced then... it's a long story―」
+[Elise]「Well, quite a few things happened since then... it's a long story―」
 
 @move_f f=iris@kanasimi out=l t=300
 @move_f f=sion@tuujou in=l t=300
@@ -418,7 +418,7 @@
 
 @move_f f=iris@bisyo in=r t=300
 
-[Elise]「Well, I think we just got our first clue. Sakuya, could you please guide us to that Mount Fuji?」
+[Elise]「Well, I think we just got our first lead. Sakuya, could you please guide us to that Mount Fuji?」
 
 @move_f f=iris@bisyo out=r t=300
 @move_f f=sakuya@odoroki in=r t=300

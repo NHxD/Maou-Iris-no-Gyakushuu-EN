@@ -150,7 +150,7 @@
 
 @bgm f=dungeon5
 
-[Sonia]「I beg you! Please don't take Lord Chiot's life! He's indispensable for the people of this country... and he's really important to me too!」
+[Sonia]「I beg you! Please don't take Lord Chiot's life! He's indispensable to the people of this country... and he's really important to me too!」
 
 @huki id=1 b=1
 @bs f=sonia@kanasimi

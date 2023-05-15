@@ -16,7 +16,7 @@
 ; NEW
 @zoom_f f=iris@ikari_z src=iris@kuyasii in=r t=300
 
-[Elise]「―Why are you insisting so much? You humans want to complain about me, uh?」
+[Elise]「―Why are you insisting so much? You humans are going to tell me what do now, uh...?」
 
 ; MOVED BELOW
 ;@huki id=8 b=6 wt=1
@@ -30,7 +30,7 @@
 ; NEW
 @huki id=8 b=6
 
-[Resident]「N―No. That's not it at all!」
+[Resident]「N―No. I didn't mean to... I―I'm sorry!」
 
 ; REMOVED
 @move_f f=iris@ikari out=r t=300
@@ -50,7 +50,7 @@
 
 @move_f f=iris@kuyasii in=r t=300
 
-[Elise] (What the hell is it about then? I‘ll go only if I'm interested.)
+[Elise] (What the hell is it about then? I'll go only if I'm interested.)
 
 @bs f=iris@bisyo
 

@@ -111,7 +111,7 @@
 
 @move_f f=iris@kougeki1 in=r t=300
 
-[Elise]「Get out of my way, you ugly orcs! I have something important to do in this village.」
+[Elise]「Get out of my way, you ugly pigs! I have something to do in this village.」
 
 @huki id=11 b=5
 

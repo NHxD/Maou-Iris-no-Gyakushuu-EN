@@ -131,7 +131,7 @@
 
 @bs f=iris@emi
 
-[Elise]「You become queen while I secretely control your every actions... Don't you think it would suit a Devil like me?」
+[Elise]「You become queen while I secretly control your every actions... Don't you think it would suit a Devil like me?」
 
 @bs f=sonia@odoroki op2=kyohi
 

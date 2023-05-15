@@ -83,7 +83,7 @@
 @anime num=215
 
 [Zekushi]「I have received the oracle that you will deracinate the Elven Forest.」
-[Zekushi]「Henceforth I have been tracking you all this time. I can't let you accomplish your evil plans!」
+[Zekushi]「Henceforth I have been tracking you all this time. I cannot let you accomplish your evil plans!」
 
 ;; Surrounded by Iris, Zexy and soldiers
 @invisible id=14 type=off
@@ -104,7 +104,7 @@
 
 @move_f f=zexy@kuyasii1 in=l t=300
 
-[Zekushi]「You evil! You used magic to control Princess Sonia?!」
+[Zekushi]「You demon! You used magic to control Princess Sonia?!」
 
 @bs f=iris@bisyo
 
@@ -115,7 +115,7 @@
 
 @bs f=zexy@sikari
 
-[Zekushi]「That's right, pretend to know nothing, but I'll figure it out soon enough. Devil Iblis, I sha―」
+[Zekushi]「That's right, pretend to know nothing, but I will figure it out soon enough. Devil Iblis, I sha―」
 
 @bs f=iris@ikari
 

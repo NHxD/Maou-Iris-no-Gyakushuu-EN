@@ -82,7 +82,7 @@
 
 @bs f=iris@emi_hoho
 
-[Elise]「It's settled. From now on, both you and Sonia will be my slaves. Ohohoho～♪」
+[Elise]「It's settled. From now on, both you and Sonia will become my slaves. Ohohoho～♪」
 
 @huki id=21 b=1
 

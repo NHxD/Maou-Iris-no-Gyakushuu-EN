@@ -27,7 +27,7 @@ In the castle where peace had returned, the same couldn't be said for the prince
 
 @bs f=sonia@kanasimi_hoho
 
-[Sonia]「You, the Devil, had the same feelings as me...it wasn't all an illusion, right?」
+[Sonia]「You, the Devil, had the same feelings as me...it wasn't all just an illusion, right?」
 
 @bs f=sonia@tameiki
 @route id=2 route=r

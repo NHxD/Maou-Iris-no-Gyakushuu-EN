@@ -25,7 +25,7 @@
 
 @bs f=iris@kuyasii
 
-[Elise] (That kind of military power could interfere with my battle aginst the Hero...)
+[Elise] (That kind of military power could interfere with my battle against the Hero...)
 ; NEW
 @bs f=iris@emi
 [Elise] (Well it shouldn't be a problem, I can easily manage a few dozens of knights. Hehe...)

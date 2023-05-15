@@ -1,6 +1,8 @@
 
 ;; ■ Devil Castle (Prologue)
 
+;[Iblis]「Hah! Humans are such stupid creatures... Constantly intruding into my castle just to line up their necks and instantly die by my hand!」
+
 @route id=7 route=up wt=1
 
 @se f=剣構え01

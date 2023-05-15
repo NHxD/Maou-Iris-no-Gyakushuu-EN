@@ -8,7 +8,7 @@
 ;;SE ■ Blessing Fanfare
 @se f=fanfare5
 
-        ―The news that Devil Iblis was vanquished spreads throughout the whole world with tremendous speed.
+        ―The news that Devil Iblis was vanquished spread throughout the whole world with tremendous speed.
 
 @map_scroll dir=d dis=8 spd=3
 

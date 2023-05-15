@@ -11,7 +11,7 @@
 
 @move_f f=iris@kuyasii in=r t=300
 
-[Elise]「Tsk... Well, it's true that I will conquer the world...」
+[Elise]「Tsk... Well, it's true that I will conquer the world someday...」
 [Elise]「However, I can assure you that I have absolutely no intention of killing any elves.」
 
 @bs f=iris@ikari
@@ -50,7 +50,7 @@
 @bs f=iris@odoroki op2=kettei
 @huki b=1
 
-[Elise] (Oh... Someone is coming...)
+[Elise] (―Oh... Someone is coming...)
 
 @move_f f=zexy@ikari out=l t=300
 

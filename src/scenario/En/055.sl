@@ -10,11 +10,11 @@
 
 @huki id=26 b=1
 
-[Mayor]「Welcome! It is a great honor to have you here... But what is the reason of your presence? This is just a small village...」
+[Mayor]「Welcome! It is a great honor to have you here... But what is the reason of your presence? This is just a small town...」
 
 @move_f f=sion@emi in=l t=300
 
-[Chiot]「I heard recent rumors of bandits terrorizing your good village. I came here to get rid of those troublemakers.」
+[Chiot]「I heard recent rumors of bandits terrorizing your good town. I came here to get rid of those troublemakers.」
 
 @move_f f=sion@emi out=l t=300
 

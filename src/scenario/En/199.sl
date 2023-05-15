@@ -79,7 +79,7 @@
 
 @huki id=4 b=7
 @dir id=4 dir=left
-[Elise]「This same comment again... Why should the Devil act cute? Did you talk to Zekushi?」
+[Elise]「This remark again... Why should the Devil act cute? Did you talk to Zekushi?」
 ; NOTE: not sure of the original meaning concerning zexy.
 
 @bs f=sion@tuujou

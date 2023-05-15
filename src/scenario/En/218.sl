@@ -170,7 +170,7 @@
 @bs f=iris@kanasimi
 
 @huki b=6
-[Elise]「... R―Right.」
+[Elise]「... F―Fair enough.」
 
 @bs f=sion@tuujou
 

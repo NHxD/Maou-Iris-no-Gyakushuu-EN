@@ -98,7 +98,7 @@
 
 [Elise](What?! He used a crystal to summon two angels?! This is impossible! How can a human have such control over heavenly beings?)
 
-[Lannan]「All right then... Although that's a real shame, you will now vanish forever from this world.」
+[Lannan]「All right, then... Although that's a real shame, you will now vanish forever from this world.」
 
 @bs f=iris@reisyo
 

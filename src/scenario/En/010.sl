@@ -19,6 +19,8 @@
 
 [Iblis]「But I'd rather not step outside in my current state, though...」
 
+[Iblis]「Hmm... Perhaps some of my minions in this castle managed to survive...?」
+
 @bs f=iris@kougeki1
 
 ; NEW

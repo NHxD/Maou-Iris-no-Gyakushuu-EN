@@ -18,7 +18,7 @@
 @huki b=5
 @bs f=iris@kougeki2
 
-[Elise]「Yes... I kill all the bandits but the people here still refuse to talk to me!」
+[Elise]「Yes... I killed all the bandits but the people here still refuse to talk to me!」
 
 @huki id=2 b=8
 

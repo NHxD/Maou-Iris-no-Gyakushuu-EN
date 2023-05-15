@@ -3,7 +3,7 @@
 
 @move_f f=iris@kanasimi in=r t=300
 
-[Iblis]「All right, let's see how many minions I can summon...」
+[Iblis]「All right, let's see how many elite minions I can summon...」
 
 @bgm
 
@@ -66,7 +66,7 @@
 @huki b=5
 @bs f=iris@ikari_hoho
 
-[Iblis]「What?! This must be a joke...right? I didn't lose!!! The human ran away before the real fight even started!」
+[Iblis]「What?! This must be a joke...right? I didn't lose!!! The human ran away before the real fight even began!」
 
 [Orc]「It's useless to say that kind of stuff to me now...」
 
@@ -86,7 +86,7 @@
 @bs f=iris@kougeki2
 
 ;[Iblis]「Orc, I command you―」
-[Iblis]「You. Obey me!」
+[Iblis]「You. Follow me―」
 
 @dir id=12 dir=l wt=0
 

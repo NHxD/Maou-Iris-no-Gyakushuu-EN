@@ -17,7 +17,7 @@
 @huki b=3
 @bs f=iris@emi
 
-[Iblis]「And once I regain some of my magic power, it'll be easy to change my look anyway.」
+[Iblis]「And once I regain some of my magic power, it'll be easy to change my appearance anyway.」
 
 @bs f=iris@kanasimi
 

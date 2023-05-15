@@ -53,6 +53,9 @@
 
 @bs f=iris@bisyo body_op=yabure
 
+; NEW
+@bgm
+
 [Elise]「Farewell... Chiot... Ohoho―」
 
 @move_f f=iris@bisyo out=r t=300

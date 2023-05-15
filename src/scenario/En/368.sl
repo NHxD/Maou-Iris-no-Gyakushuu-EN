@@ -13,6 +13,9 @@
 
 @bgm f=dungeon10
 
+; NEW
+@se f=Chest
+
 @move_f f=iris@bisyo body=hadaka in=r t=300
 
 [Elise]「Here it is. Well now, let's get out of here because I really don't want to spend one more second in this place.」

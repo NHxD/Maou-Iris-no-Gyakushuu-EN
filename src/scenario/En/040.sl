@@ -2,6 +2,8 @@
 ;; ■ Oak Forest / Orc Settlement
 ;; Talk with Red Orc
 
+@bgm f=Dungeon9
+
 @map_scroll dir=d dis=2 spd=3
 @wait t=1000
 
@@ -11,6 +13,7 @@
 
 [Elise]「You're the infamous Red Orc, I presume.」
 
+@bgm
 
 @bgm f=Dungeon3
 

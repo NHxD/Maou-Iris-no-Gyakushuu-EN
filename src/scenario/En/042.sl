@@ -2,6 +2,9 @@
 ;; ■ Small Village
 ;; ※ Dark→Forced move to the village
 
+; NEW
+@bgm
+
 @bgm f=Theme3
 
 @huki id=15 b=1

@@ -8,6 +8,9 @@
 
 @bgm f=bgm03
 
+; NEW
+@se f=Open1
+
 @move_f f=iris@reisyo in=r t=300
 
 [Elise]「Hmm... This must be Prince Lannan's room. Hmm, the door's locked...」

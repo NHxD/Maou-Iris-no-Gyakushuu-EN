@@ -34,6 +34,10 @@
 @route id=4 route=up:6 wt=0
 @fade type=out t=1000 wt=1
 @wait t=2000
+
+; NEW
+@se f=Open4 vol=70
+
 @event_warp id=4 x=15 y=15 dir=d
 @dot_move x=15 y=18 dir=u
 @route id=4 route=d:2 wt=0

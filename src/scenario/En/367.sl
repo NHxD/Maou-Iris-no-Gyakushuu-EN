@@ -10,8 +10,14 @@
 ;; Situation ■ Iris takes the key and removes the collar
 ;; ■ If you have not seen the H scene until the second stage after pressing the current button
 
-; NOTE: why is there such a long wait?
-@wait t=2000
+; NEW
+@se f=Equip2
+@wait t=1000
+@se f=Equip3
+@wait t=1000
+
+; MOVED
+;@wait t=2000
 @bgm f=dungeon10
 
 @move_f f=iris@bisyo body=hadaka-kubiwa in=r t=300

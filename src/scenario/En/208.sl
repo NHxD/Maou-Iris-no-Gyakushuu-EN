@@ -9,6 +9,9 @@
 
 @huki id=9 b=1
 
+; NEW
+@se f=Blow6
+
 [Chiot]「Gah!!!」
 
 ;; Zion blown away

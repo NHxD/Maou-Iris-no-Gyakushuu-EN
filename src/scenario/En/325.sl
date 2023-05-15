@@ -24,6 +24,11 @@
 @dir_fix id=2 type=off
 @dir id=2 dir=d
 
+; NEW
+@bgm_save
+; NEW
+@bgm f=Town2
+
 [Item shop owner]「―Oh! Welcome!」
 
 @bs f=iris@bisyo
@@ -93,3 +98,8 @@
 @move_f f=iris@bisyo out=r t=300
 
 ;; ■ After that, an event will occur if you speak with three "Evil Eye's Eyes"
+
+; NEW
+@bgm t=5000
+; NEW
+@bgm_resume
